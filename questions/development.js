@@ -64,7 +64,7 @@
       answers: [
         "Des échanges alimentaires (nutrition du fœtus), pouvant être à l'origine de préférences alimentaires",
         "La transmission de molécules, notamment d'hormones de stress (catécholamines et glucocorticoïdes)",
-        "Ces hormones influencent l'organisation et le fonctionnement des structures cérébrales",
+        "Les hormones de stress transmises influencent l'organisation et le fonctionnement des structures cérébrales",
         "Aucun échange : le fœtus est totalement isolé de la mère jusqu'à la naissance",
         "Uniquement des hormones sexuelles, sans influence sur le cerveau"
       ],
@@ -153,7 +153,7 @@
     },
     {
       id: "development-011",
-      question: "Comment les sens du chiot se développent-ils au début de cette période ?",
+      question: "Comment les sens du chiot se développent-ils au début de la période d'imprégnation ?",
       answers: [
         "À partir de 10 à 15 jours, le chiot voit",
         "Son conduit auditif s'ouvre vers 14-15 jours",
@@ -220,9 +220,9 @@
       answers: [
         "Il possède déjà la quasi-totalité de ses cellules à la naissance",
         "Il ne pèse alors que 20 % du poids qu'il atteindra à l'âge adulte",
-        "Cette différence s'explique par la mise en place des connexions entre chaque cellule",
+        "La différence de poids avec l'âge adulte s'explique par la mise en place des connexions entre chaque cellule",
         "Il ne possède que 20 % de ses cellules à la naissance",
-        "Cette différence de poids s'explique par la prolifération de nouveaux neurones"
+        "La différence de poids avec l'âge adulte s'explique par la prolifération de nouveaux neurones"
       ],
       correct: [0, 1, 2],
       explanation: "La période d'imprégnation est cruciale : le cerveau est en pleine croissance et organisation, avec des connexions qui se mettent en place."
@@ -245,7 +245,7 @@
       answers: [
         "Son cerveau sécrète des « enzymes suicidaires » qui détruisent les cellules nerveuses et connexions synaptiques inactives",
         "Il y a un double mécanisme de construction et de destruction de réseaux neuronaux",
-        "Ce mécanisme dépend de l'activation des cellules nerveuses par une stimulation externe, par un sens",
+        "L'élimination des cellules inactives dépend de l'activation des cellules nerveuses par une stimulation externe, par un sens",
         "La génétique donne un potentiel (inné), que l'environnement exploite et affine (acquis)",
         "Toutes les cellules nerveuses et connexions sont conservées, même inactives",
         "La structure du cerveau est entièrement fixée par la génétique"
@@ -625,7 +625,7 @@
     },
     {
       id: "development-047",
-      question: "Quels autres effets la puberté a-t-elle sur le comportement ?",
+      question: "Parmi ces propositions, lesquelles sont des effets de la puberté sur le comportement ?",
       answers: [
         "Une résurgence plus ou moins intense de l'héritage génétique",
         "Une perte plus ou moins importante de l'obéissance spontanée",
@@ -720,9 +720,9 @@
       question: "Quelles associations méthode d'éducation / principe sont exactes ?",
       answers: [
         "Éducation naturelle : on confronte le chien de façon intense et régulière au stimulus problématique",
-        "Éducation positive : on renforce les bons comportements, on détourne l'attention, on redirige l'excitation",
+        "Éducation positive : on renforce les bons comportements, on détourne l'attention",
         "Éducation coercitive : on réprimande le mauvais comportement",
-        "Éducation naturelle : on renforce les bons comportements et on redirige l'excitation",
+        "Éducation naturelle : on marque chaque bon comportement avec un clicker et une friandise",
         "Éducation coercitive : on détourne l'attention du chien"
       ],
       correct: [0, 1, 2],

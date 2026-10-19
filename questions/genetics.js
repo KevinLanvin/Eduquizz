@@ -118,7 +118,7 @@
     },
     {
       id: "genetics-012",
-      question: "Quel était l'objectif de départ de cette étude ?",
+      question: "Quel était l'objectif de départ de l'expérience de domestication des renards ?",
       answers: [
         "Faciliter la production de fourrure",
         "Créer un animal de compagnie pour les familles",
@@ -136,7 +136,7 @@
         "Après 30 à 35 générations, 70 à 80 % des renards sont apprivoisés",
         "Dans la population de renards sauvages sans sélection, l'agressivité envers l'Homme reste constante au fil des générations",
         "Après 10 générations, tous les renards sélectionnés sont déjà apprivoisés",
-        "Dans la population de renards sauvages sans sélection, l'agressivité diminue elle aussi peu à peu"
+        "Dans la population de renards sauvages sans sélection, l'agressivité envers l'Homme diminue peu à peu"
       ],
       correct: [0, 1, 2],
       explanation: "10 générations : 18 % apprivoisés ; 30 à 35 générations : 70 à 80 %. La population sauvage non sélectionnée garde une agressivité constante : c'est la preuve de l'héritabilité comportementale."
@@ -158,8 +158,8 @@
       question: "Que révèle l'analyse « genome wide » chez le renard ?",
       answers: [
         "Un locus de « domestication » sur le chromosome 12",
-        "Ce locus est lié au caractère apprivoisé/agressif",
-        "Ce locus a aussi été mis en évidence dans la domestication du chien",
+        "Le locus de « domestication » est lié au caractère apprivoisé/agressif",
+        "Le locus de « domestication » a été mis en évidence dans la domestication du chien",
         "Un gène unique qui explique à lui seul la couleur du pelage",
         "Aucun point commun avec la domestication du chien"
       ],
@@ -181,7 +181,7 @@
     },
     {
       id: "genetics-017",
-      question: "Quelles modifications morphologiques apparaissent chez ces renards ?",
+      question: "Quelles modifications morphologiques apparaissent chez les renards sélectionnés sur leur faible peur de l'Homme ?",
       answers: [
         "L'apparition de la couleur blanche",
         "Des rayures et des taches sur le pelage",
@@ -194,7 +194,7 @@
     },
     {
       id: "genetics-018",
-      question: "Quelles modifications comportementales apparaissent chez ces renards ?",
+      question: "Quelles modifications comportementales apparaissent chez les renards sélectionnés sur leur faible peur de l'Homme ?",
       answers: [
         "Ils sont plus joueurs",
         "Ils sont plus curieux",
@@ -289,7 +289,7 @@
     },
     {
       id: "genetics-025",
-      question: "Quelle autre voie existe, avec l'exemple du Berger blanc suisse ?",
+      question: "Comment une race peut-elle être créée à partir de la sélection d'une tare, comme le Berger blanc suisse ?",
       answers: [
         "La sélection d'une tare, uniquement",
         "La sélection d'un standard à partir d'une population stable",
@@ -513,7 +513,7 @@
     },
     {
       id: "genetics-072",
-      question: "Quels autres problèmes de tête et de respiration sont cités pour le Bulldog ?",
+      question: "Lesquels de ces problèmes de tête et de respiration sont cités pour le Bulldog ?",
       answers: [
         "Les plis de peau sur le nez",
         "Les orbites peu profonds",
@@ -718,12 +718,12 @@
     },
     {
       id: "genetics-058",
-      question: "Parmi ces affirmations sur l'héritabilité d'un comportement comme « attendre » ou « agresser », laquelle est vraie ?",
+      question: "Parmi ces affirmations sur l'héritabilité d'un comportement, laquelle est vraie ?",
       answers: [
-        "Elle dit pourquoi, chez des chiens développés dans les mêmes conditions et placés dans la même situation, certains attendent (ou agressent) plus facilement que d'autres",
-        "Elle dit si un chien est capable d'apprendre à attendre (ou à agresser) après une éducation adaptée",
-        "Elle dit quelle probabilité a un chien donné d'attendre (ou d'agresser) dans une situation précise donnée",
-        "Elle dit quelle part du comportement d'un chien vient de ses gènes et quelle part vient de son éducation"
+        "Elle explique les différences entre chiens élevés dans les mêmes conditions : certains manifestent ce comportement plus facilement que d'autres",
+        "Elle indique si un chien est capable d'apprendre ce comportement après une éducation adaptée",
+        "Elle indique la probabilité qu'un chien précis adopte ce comportement une fois adulte",
+        "Elle indique, pour un chien donné, quelle part du comportement vient de ses gènes et quelle part de son éducation"
       ],
       correct: [0],
       explanation: "L'héritabilité ne dit pas si un chien peut apprendre à attendre ou à agresser : ils le peuvent tous. Elle explique les différences entre chiens placés dans les mêmes conditions."

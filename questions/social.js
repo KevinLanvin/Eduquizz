@@ -97,7 +97,7 @@
       answers: [
         "Elle est très variable",
         "Un groupe peut être constitué d'un couple et de ses descendants",
-        "On observe aussi de nombreux groupes avec des membres non apparentés",
+        "On observe de nombreux groupes avec des membres non apparentés",
         "Un groupe est toujours dirigé par un couple alpha",
         "Tous les membres d'un groupe sont toujours apparentés"
       ],
@@ -396,7 +396,7 @@
         "L'humain contrôle l'environnement",
         "L'humain fixe les règles de cohabitation",
         "L'humain autorise, interdit ou favorise certains comportements",
-        "Le chien ne dispose pas de ce pouvoir décisionnel",
+        "Le chien ne dispose pas du pouvoir de décider de l'environnement et des règles de cohabitation",
         "Le chien fixe ses propres règles de cohabitation",
         "Cette asymétrie est abusive et violente"
       ],

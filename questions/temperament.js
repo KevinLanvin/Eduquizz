@@ -175,9 +175,9 @@
       question: "Que conclut l'étude de Scott et Fuller ?",
       answers: [
         "La propension à établir des relations de dominance stables varie en fonction des races",
-        "Le Fox Terrier est la race chez qui ces relations s'établissent le plus (courbe la plus élevée)",
-        "Cette propension est identique dans les cinq races étudiées",
-        "Le Basenji est la race chez qui ces relations s'établissent le plus"
+        "Le Fox Terrier est la race chez qui les relations de dominance stables s'établissent le plus (courbe la plus élevée)",
+        "La propension à établir des relations de dominance stables est identique dans les cinq races étudiées",
+        "Le Basenji est la race chez qui les relations de dominance stables s'établissent le plus"
       ],
       correct: [0, 1],
       explanation: "La propension à établir des relations de dominance stables varie selon les races : sur la figure, le Fox Terrier a la courbe la plus élevée."
@@ -239,7 +239,7 @@
     },
     {
       id: "temperament-036",
-      question: "Parmi ces propositions, lesquelles sont aussi des traits du C-BARQ ?",
+      question: "Lesquelles de ces propositions sont des traits du C-BARQ ?",
       answers: [
         "Le comportement d'attachement",
         "La poursuite (chasing)",
@@ -293,7 +293,7 @@
     },
     {
       id: "temperament-020",
-      question: "Comment qualifie-t-on le C-BARQ en conclusion ?",
+      question: "Comment qualifie-t-on le C-BARQ ?",
       answers: [
         "Un excellent outil de recherche et de repérage, mais pas un outil de diagnostic d'un cas particulier",
         "Un excellent outil de diagnostic, utilisable seul pour décider du devenir d'un chien",
@@ -492,7 +492,7 @@
       question: "Quelles conclusions peut-on tirer sur le tempérament ?",
       answers: [
         "Les chiens présentent une importante variabilité comportementale individuelle : l'expression de leur tempérament (ou personnalité)",
-        "Cette variabilité est notamment conditionnée par des facteurs génétiques, donc par la race, mais ce n'est pas une vérité absolue",
+        "La variabilité comportementale individuelle est notamment conditionnée par des facteurs génétiques, donc par la race, mais ce n'est pas une vérité absolue",
         "Pour évaluer le tempérament d'un chien et sa compatibilité avec un environnement ou une fonction, il faut mettre en place un test adapté (questionnaire ou mise en situation)",
         "On peut s'appuyer sur des tests existants, notamment le C-BARQ et le DMA",
         "La race d'un chien suffit à prédire son tempérament de façon certaine",

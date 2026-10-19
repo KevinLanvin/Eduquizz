@@ -265,7 +265,7 @@
     },
     {
       id: "origins-027",
-      question: "Quelles caractéristiques décrivent Canis lupus familiaris, issu de cette nouvelle niche ?",
+      question: "Quelles caractéristiques décrivent Canis lupus familiaris ?",
       answers: [
         "Il est dépendant de l'Homme",
         "Il est plus sociable",
@@ -585,7 +585,7 @@
     },
     {
       id: "origins-065",
-      question: "Lesquelles de ces races comptent aussi parmi les premières races encore présentes aujourd'hui (fin de l'Antiquité) ?",
+      question: "Parmi ces races, lesquelles comptent parmi les premières races encore présentes aujourd'hui (fin de l'Antiquité) ?",
       answers: [
         "Le Lévrier afghan",
         "Le Saluki (lévrier persan)",

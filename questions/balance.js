@@ -124,7 +124,7 @@
     },
     {
       id: "balance-009",
-      question: "Quelles sont des associations négatives efficaces et sans violence ?",
+      question: "Quelles réprimandes sont efficaces et sans violence ?",
       answers: [
         "L'ignorance",
         "L'attitude ferme",
@@ -135,7 +135,7 @@
         "Le roulé alpha"
       ],
       correct: [0, 1, 2, 3, 4],
-      explanation: "On travaille avec des associations négatives efficaces et sans violence."
+      explanation: "Réprimandes efficaces et sans violence : ignorance, attitude ferme, cessation du jeu, exclusion, retrait de quelque chose de positif."
     },
     {
       id: "balance-010",
@@ -248,12 +248,12 @@
     },
     {
       id: "balance-019",
-      question: "Comment pratique-t-on l'éducation naturelle en éducation générale ?",
+      question: "Comment pratique-t-on l'éducation naturelle ?",
       answers: [
         "En favorisant la socialisation, la familiarisation et l'habituation de façon progressive, par l'imprégnation, l'autorégulation, l'habituation et l'observation",
         "En utilisant en priorité l'immersion (saturation), de façon intense, dès le plus jeune âge et pour tous les stimuli",
         "En marquant chaque bon comportement avec un clicker, puis en le renforçant par une friandise de forte valeur",
-        "En réprimandant les comportements indésirables avec des associations négatives efficaces et sans violence"
+        "En réprimandant les comportements indésirables avec des réprimandes efficaces et sans violence"
       ],
       correct: [0],
       explanation: "En rééducation, on utilise l'immersion (saturation) et l'apprentissage par observation."
@@ -364,7 +364,7 @@
     },
     {
       id: "balance-028",
-      question: "Quelles associations méthode / problème de comportement sont exactes ?",
+      question: "Pour quels problèmes de comportement chaque méthode d'éducation est-elle adaptée ?",
       answers: [
         "Le chien qui aboie de façon intempestive : éducation restrictive",
         "Le chien qui ne rapporte pas la balle : éducation positive",

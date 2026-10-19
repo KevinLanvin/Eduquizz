@@ -250,7 +250,7 @@
       question: "De quoi dépend la réceptivité d'un chien envers un maître ?",
       answers: [
         "De l'historique d'interactions entre eux",
-        "Du sexe du maître et de la hauteur de sa voix",
+        "De la race du chien, quel que soit le maître",
         "De la personne qui lui donne ses repas",
         "De la personne qui l'a choisi à l'élevage"
       ],

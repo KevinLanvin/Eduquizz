@@ -26,7 +26,7 @@
       answers: [
         "Ces chiens n'ont jamais suivi de cours d'éducation",
         "Ils n'ont peut-être même jamais été éduqués (renforcement/punition par un maître)",
-        "Ils évoluent pourtant calmement dans des environnements riches : foule, circulation, enfants qui courent",
+        "Ils évoluent calmement dans des environnements riches : foule, circulation, enfants qui courent",
         "Ils ont tous été éduqués en méthode positive avec un clicker",
         "Ils ont tous été dressés avec des outils coercitifs"
       ],
@@ -157,7 +157,7 @@
     },
     {
       id: "natural-011",
-      question: "Quelle caractéristique permet chacun de ces mécanismes ?",
+      question: "Quelles associations mécanisme d'éducation naturelle / caractéristique qui le permet sont exactes ?",
       answers: [
         "Habituation : la fréquence de confrontation",
         "Saturation : la durée et l'intensité d'immersion",
@@ -192,7 +192,7 @@
         "Elle est plus facile à mettre en place avec un chiot (imprégnation)",
         "On peut travailler en liberté contrôlée, avec une longe si nécessaire",
         "On travaille en sécurité quand le chien est confronté à des dangers",
-        "On travaille aussi en sécurité quand le chien représente un danger",
+        "On travaille en sécurité lorsque le chien représente lui-même un danger",
         "Elle n'est possible qu'avec un chien adulte",
         "L'utilisation d'une longe est interdite"
       ],
@@ -356,7 +356,7 @@
     },
     {
       id: "natural-026",
-      question: "Quels autres inconvénients l'éducation naturelle présente-t-elle ?",
+      question: "Parmi ces propositions, lesquelles sont des inconvénients de l'éducation naturelle ?",
       answers: [
         "Un travail à réaliser sur le long terme",
         "Elle nécessite de pouvoir emmener très régulièrement son chien dans des environnements adaptés",

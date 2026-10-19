@@ -4,6 +4,7 @@
 // Sources: the course summary and the Lexique only. No very precise dates
 // (years of the experiments and of the authors are left out), no journal references.
 // Not covered: the brain-weight graph (no conclusion given on the course photo).
+// Removed on purpose (never reuse this id): cognition-027 (conclusions of the facial expressions study: unclear answers).
 // The detour experiment: only its hypothesis is asked (its own results are not on the photos).
 // From the teacher's oral explanation (given by the user): the dogs beat the chimpanzees and
 // the wolves (see cognition-014), several hypotheses were then made about the reason of that
@@ -85,7 +86,7 @@
     },
     {
       id: "cognition-039",
-      question: "Parmi ces propositions, lesquelles sont aussi des types d'apprentissage distingués par Thorpe ?",
+      question: "Lesquelles de ces propositions correspondent à un type d'apprentissage distingué par Thorpe ?",
       answers: [
         "L'apprentissage associatif",
         "Le conditionnement",
@@ -204,7 +205,7 @@
         "Les chiens font plus de choix corrects que les chimpanzés",
         "Les chiens ont plus de réponses correctes que les loups quand un indice est donné",
         "En condition contrôle, sans intervention de l'Humain, chiens et loups ont des résultats proches",
-        "Les chiots, quels que soient leur âge et leur condition d'élevage, utilisent aussi des indices visuels",
+        "Les chiots, quels que soient leur âge et leur condition d'élevage, utilisent des indices visuels",
         "Les loups utilisent mieux les indices humains que les chiens",
         "Les chiots n'utilisent les indices visuels qu'après plusieurs mois d'exposition aux humains"
       ],
@@ -213,14 +214,14 @@
     },
     {
       id: "cognition-015",
-      question: "Quelles conclusions tire-t-on de ces expériences sur l'origine des capacités sociales cognitives du chien ?",
+      question: "Quelles conclusions tire-t-on des expériences de recherche guidée sur l'origine des capacités sociales cognitives du chien ?",
       answers: [
         "Les performances des chiens ne sont pas héritées phylogénétiquement des loups",
-        "Elles ne sont pas non plus une simple conséquence d'une exposition intense à l'Homme tout au long de la vie",
+        "Les performances des chiens ne sont pas non plus une simple conséquence d'une exposition intense à l'Homme tout au long de la vie",
         "Les aptitudes à communiquer avec l'Homme ont été acquises par les chiens au cours de la domestication",
         "Les chiens ont acquis un avantage sélectif sur les loups : une utilisation plus flexible des indices visuels de l'Homme",
         "Les chiens ont hérité ces aptitudes de leurs ancêtres loups",
-        "Ces aptitudes ne s'acquièrent qu'avec l'âge et l'expérience"
+        "Les aptitudes sociales cognitives ne s'acquièrent qu'avec l'âge et l'expérience"
       ],
       correct: [0, 1, 2, 3],
       explanation: "Les chiens et les loups ont des capacités cognitives différentes, acquises par les chiens pendant la domestication : ce n'est ni hérité du loup, ni une simple conséquence de l'exposition à l'Homme."
@@ -241,7 +242,7 @@
     },
     {
       id: "cognition-017",
-      question: "Quels sont des indices humains familiers dans cette expérience ?",
+      question: "Quels sont des indices humains familiers dans le protocole d'Udell (choix de gobelet) ?",
       answers: [
         "Pointer le bras vers le gobelet",
         "Se pencher vers le gobelet, en le fixant",
@@ -254,7 +255,7 @@
     },
     {
       id: "cognition-040",
-      question: "Quels sont des indices humains non familiers dans cette expérience ?",
+      question: "Quels sont des indices humains non familiers dans le protocole d'Udell (choix de gobelet) ?",
       answers: [
         "Pointer avec la jambe, en étant assis",
         "Tourner les épaules vers le gobelet",
@@ -268,7 +269,7 @@
     },
     {
       id: "cognition-018",
-      question: "Quels sont des indices non humains dans cette expérience ?",
+      question: "Quels sont des indices non humains dans le protocole d'Udell (choix de gobelet) ?",
       answers: [
         "Un bras mécanique qui pointe",
         "Un chien empaillé, orienté vers le gobelet",
@@ -314,13 +315,12 @@
       id: "cognition-021",
       question: "Que montre l'imagerie cérébrale (IRMf) du Pr Gregory Berns sur la perception des mots ?",
       answers: [
-        "Chez l'Homme comme chez le chien, l'activité cérébrale augmente à l'écoute de mots absurdes ou inconnus",
         "Pour un mot connu, l'Homme active les cortex de la reconnaissance et du visuel, alors que le chien n'active que le cortex auditif",
         "Berns émet l'hypothèse d'un apprentissage par mot-action plutôt que par mot-objet",
         "Pour un mot connu, le chien active les mêmes zones visuelles que l'Homme",
         "Berns conclut que le chien apprend les mots par mot-objet, comme l'Homme"
       ],
-      correct: [0, 1, 2],
+      correct: [0, 1],
       explanation: "Le chien n'active que le cortex auditif pour un mot connu : d'où l'hypothèse d'un apprentissage mot-action plutôt que mot-objet."
     },
     {
@@ -389,20 +389,6 @@
       explanation: "18 chiens, écrans tactiles, récompense pour la bonne photo, demi-visages, puis images inconnues avec un taux de réussite proche de 100 %."
     },
     {
-      id: "cognition-027",
-      question: "Quelles conclusions tire-t-on de cette étude ?",
-      answers: [
-        "Le chien est capable de créer des concepts à partir d'émotions humaines, comme le bonheur ou la colère",
-        "On ne sait pas si sa « table d'expressions faciales » est acquise par l'expérience ou innée",
-        "Le chien peut simplement être conditionné à nos expressions faciales, sans représentation symbolique du bonheur",
-        "Le chien a donc la capacité de reconnaître l'état émotionnel de l'Homme",
-        "Il est établi que cette table d'expressions est innée chez le chien comme chez l'Homme",
-        "Le chien possède forcément une représentation symbolique du bonheur"
-      ],
-      correct: [0, 1, 2, 3],
-      explanation: "Le chien reconnaît l'état émotionnel humain, mais on ne sait pas si la table d'expressions est innée ou acquise, ni s'il a une représentation symbolique du bonheur."
-    },
-    {
       id: "cognition-028",
       question: "Parmi ces affirmations sur l'espace sémantique Homme-Chien (Berns), lesquelles sont vraies ?",
       answers: [
@@ -438,7 +424,7 @@
         "Le labyrinthe a 4 branches, chacune avec une saveur différente",
         "Le rat choisit entre attendre sa saveur préférée ou changer de zone en espérant attendre moins longtemps",
         "Le plus de regrets apparaît quand le rat quitte une zone et découvre qu'il doit attendre encore plus longtemps pour une saveur moins appétente",
-        "Lors de ces demi-tours, le cortex orbitofrontal est très actif",
+        "Quand le rat revient sur ses pas, son cortex orbitofrontal est très actif",
         "Quitter la zone n'arrête pas le compte à rebours",
         "Les rats ne font jamais demi-tour une fois qu'ils ont quitté une zone"
       ],
@@ -450,9 +436,9 @@
       question: "Pourquoi parler de « culpabilité » ou de « regret » chez le chien pose-t-il problème ?",
       answers: [
         "Ces émotions impliquent la conscience de normes sociales et morales",
-        "Elles impliquent de se représenter des alternatives passées (« j'aurais dû ») et d'attribuer une responsabilité personnelle",
-        "Elles impliquent une narration interne de ses propres actes",
-        "Ces fonctions cognitives et métacognitives ne sont pas démontrées chez le chien",
+        "Culpabilité et regret impliquent de se représenter des alternatives passées (« j'aurais dû ») et d'attribuer une responsabilité personnelle",
+        "La culpabilité et le regret impliquent une narration interne de ses propres actes",
+        "La conscience de normes morales, la représentation d'alternatives passées et la narration interne ne sont pas démontrées chez le chien",
         "Parce que le chien n'éprouve aucune émotion",
         "Parce que le regret n'a jamais été étudié chez l'animal"
       ],

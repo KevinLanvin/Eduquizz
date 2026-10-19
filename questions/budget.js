@@ -110,13 +110,13 @@
       id: "budget-024",
       question: "Qu'est-ce que le budget-temps d'un animal ?",
       answers: [
-        "L'allocation du temps passé par l'animal à ses activités essentielles (durables) pendant 24 h",
+        "L'allocation du temps passé par l'animal à ses activités essentielles (durables)",
         "La durée totale de sa vie, exprimée en années, répartie entre ses différents âges",
         "Le temps nécessaire à l'animal pour apprendre un nouveau comportement avec un renforçateur",
         "Le temps qu'il passe chaque jour en présence de l'Homme, par rapport à celui passé seul"
       ],
       correct: [0],
-      explanation: "Le budget-temps (ou budget-activités) est l'allocation du temps passé par un animal à ses activités essentielles pendant 24 h : l'animal ajuste ses activités à ses besoins."
+      explanation: "Le budget-temps (ou budget-activités) est l'allocation du temps passé par un animal à ses activités essentielles : l'animal ajuste ses activités à ses besoins."
     },
     {
       id: "budget-008",
@@ -137,7 +137,7 @@
       answers: [
         "Un rôle curatif : comprendre et résoudre des problèmes comportementaux",
         "Un rôle préventif : prévenir des comportements anormaux",
-        "Cette étape préventive est particulièrement importante face à un chien « spécialisé »",
+        "Le rôle préventif est particulièrement important face à un chien « spécialisé »",
         "Un rôle uniquement curatif, une fois que les troubles sont installés",
         "Un rôle de choix de la race, avant toute adoption"
       ],
@@ -279,7 +279,7 @@
     },
     {
       id: "budget-025",
-      question: "Quels autres besoins du chien s'expriment sous forme de comportements ?",
+      question: "Lesquels de ces comportements expriment un besoin du chien ?",
       answers: [
         "Des comportements d'agression",
         "Des comportements de vocalise",
@@ -292,7 +292,7 @@
     },
     {
       id: "budget-026",
-      question: "Quels derniers besoins du chien s'expriment aussi sous forme de comportements ?",
+      question: "Parmi ces propositions, lesquelles sont des comportements qui expriment un besoin du chien ?",
       answers: [
         "Des comportements sexuels et érotiques",
         "Des comportements de communication",
@@ -321,7 +321,7 @@
     },
     {
       id: "budget-021",
-      question: "Quelles autres activités font partie du modèle activité du Dr Dehasse ?",
+      question: "Lesquelles de ces propositions font partie du modèle activité du Dr Dehasse ?",
       answers: [
         "La socialisation",
         "L'activité agressive",
@@ -335,7 +335,7 @@
     },
     {
       id: "budget-027",
-      question: "Quelles activités complètent encore le modèle activité du Dr Dehasse ?",
+      question: "Parmi ces activités, lesquelles font partie du modèle activité du Dr Dehasse ?",
       answers: [
         "L'activité locomotrice",
         "L'activité masticatoire",

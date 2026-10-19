@@ -269,7 +269,7 @@
       answers: [
         "La phobie des congénères est généralement déclenchée par un ou plusieurs événements traumatisants en période sensible (3 semaines à 3 mois)",
         "La phobie de l'Homme vient généralement d'un manque d'exposition en période sensible, voire d'événements traumatisants",
-        "La phobie des congénères peut aussi apparaître au vieillissement du chien (baisse de la tolérance ?)",
+        "La phobie des congénères peut apparaître au vieillissement du chien (baisse de la tolérance ?)",
         "La phobie de l'Homme est toujours d'origine héréditaire",
         "La phobie des congénères n'apparaît jamais chez un chien âgé"
       ],
@@ -384,11 +384,10 @@
       answers: [
         "C'est ressentir du stress de façon durable, sans l'objet à l'origine du stress",
         "On l'appelle aussi la « peur anticipée »",
-        "Son nom vient du latin anxietas : disposition à l'inquiétude",
         "C'est une réaction brève et intense face à un danger précis",
         "C'est une émotion fugace liée à un événement"
       ],
-      correct: [0, 1, 2],
+      correct: [0, 1],
       explanation: "L'anxiété est une « peur anticipée » : ressentir du stress de façon durable et sans objet. Une réaction brève et intense face à un danger précis est une peur."
     },
     {

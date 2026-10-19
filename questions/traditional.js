@@ -134,7 +134,7 @@
     },
     {
       id: "traditional-010",
-      question: "Quels autres outils de l'éducation traditionnelle sont cités ?",
+      question: "Parmi ces propositions, lesquelles sont des outils de l'éducation traditionnelle ?",
       answers: [
         "Les journaux",
         "Les bouteilles remplies de cailloux",
@@ -148,7 +148,7 @@
     },
     {
       id: "traditional-011",
-      question: "Lesquelles de ces propositions correspondent également à un outil de l'éducation traditionnelle ?",
+      question: "Lesquelles de ces propositions décrivent un outil de l'éducation traditionnelle ?",
       answers: [
         "Les fouets",
         "La planche à clous",
@@ -196,7 +196,7 @@
         "Les disciplines de détection ne peuvent pas être pratiquées en méthode traditionnelle"
       ],
       correct: [0, 1],
-      explanation: "Sans violence toujours."
+      explanation: "Dans le cours : certains apprentissages sont acquis plus rapidement par l'interdit, même sans violence (ex : refus d'appât), et certaines disciplines (détection, mordant...) se pratiquent plus efficacement en méthode traditionnelle, sans violence toujours."
     },
 
     // ---------- Dérives ----------
@@ -217,9 +217,9 @@
       question: "Que montrent les travaux de Laborit et Seligman sur la détresse acquise ?",
       answers: [
         "Un individu (animal ou humain) confronté durablement à des stimuli aversifs sans évitement possible finit dans un état semblable à la dépression",
-        "Il comprend que toute action de fuite ou de rébellion est inefficace, et finit par capituler et se résigner passivement",
-        "Cet état se traduit généralement par une perte de motivation et une quasi-absence d'émotions",
-        "Il finit par se révolter de plus en plus violemment",
+        "Face à des stimuli aversifs inévitables, l'individu comprend que toute action de fuite ou de rébellion est inefficace, et finit par capituler et se résigner passivement",
+        "La détresse acquise se traduit généralement par une perte de motivation et une quasi-absence d'émotions",
+        "L'individu finit par se révolter de plus en plus violemment",
         "L'état disparaît spontanément dès que les stimuli aversifs sont arrêtés"
       ],
       correct: [0, 1, 2],
@@ -255,7 +255,7 @@
     },
     {
       id: "traditional-019",
-      question: "Quels autres avantages la méthode traditionnelle présente-t-elle ?",
+      question: "Parmi ces propositions, lesquelles sont des avantages de la méthode traditionnelle ?",
       answers: [
         "Une méthode universelle, qui demande peu d'adaptation",
         "Peu de matériel à transporter",
@@ -281,7 +281,7 @@
     },
     {
       id: "traditional-021",
-      question: "Quels autres inconvénients la méthode traditionnelle présente-t-elle ?",
+      question: "Parmi ces propositions, lesquelles sont des inconvénients de la méthode traditionnelle ?",
       answers: [
         "Elle masque les problèmes sans les résoudre",
         "La non-prise en compte des besoins est une maltraitance passive",

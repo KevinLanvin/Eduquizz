@@ -321,14 +321,13 @@
       id: "positive-024",
       question: "Quelles réponses peut-on apporter aux arguments contre les interdits ?",
       answers: [
-        "Les interdits permettent au contraire au chien de gérer sa frustration",
-        "Marqués sans violence, les interdits inhibent seulement les comportements conditionnés, sans généraliser à tout le répertoire",
+        "Les interdits permettent au chien de gérer sa frustration",
         "Il y a confusion entre interdits, douleur et état dépressif d'un animal : l'interdit ne provoque pas de détresse acquise",
         "Les interdits provoquent toujours une détresse acquise",
-        "L'interdit se généralise à l'ensemble du répertoire comportemental du chien"
+        "Les interdits empêchent définitivement le chien d'apprendre de nouveaux comportements"
       ],
-      correct: [0, 1, 2],
-      explanation: "Trois arguments courants des extrêmes, trois réponses."
+      correct: [0, 1],
+      explanation: "Arguments courants des extrêmes : confusion entre interdit et douleur, frustration, détresse acquise."
     },
     {
       id: "positive-025",
@@ -358,7 +357,7 @@
     },
     {
       id: "positive-027",
-      question: "Quelles sont des conséquences de ces dérives ?",
+      question: "Quelles sont des conséquences des dérives de l'éducation positive « à l'extrême » ?",
       answers: [
         "Un renforcement des problématiques : amélioration rapide au début, puis renforcement du comportement initial",
         "Une augmentation du risque de morsure lorsqu'il s'agit d'un renforcement d'agressivité",
@@ -371,7 +370,7 @@
     },
     {
       id: "positive-028",
-      question: "Quelles autres conséquences ces dérives ont-elles ?",
+      question: "Lesquelles de ces propositions sont des conséquences des dérives de l'éducation positive « à l'extrême » ?",
       answers: [
         "Les propriétaires sont désemparés et culpabilisent sans comprendre que la méthode est mauvaise",
         "La communication Homme-Chien se détériore : le maître ne sait plus communiquer les comportements désirables et indésirables",
@@ -399,7 +398,7 @@
     },
     {
       id: "positive-030",
-      question: "Quels autres avantages l'éducation positive présente-t-elle ?",
+      question: "Parmi ces propositions, lesquelles sont des avantages de l'éducation positive ?",
       answers: [
         "La prise en compte des besoins et la baisse des troubles comportementaux",
         "Elle est praticable par tous les membres de la famille",
@@ -426,7 +425,7 @@
     },
     {
       id: "positive-032",
-      question: "Quels autres inconvénients l'éducation positive présente-t-elle ?",
+      question: "Parmi ces propositions, lesquelles sont des inconvénients de l'éducation positive ?",
       answers: [
         "Un risque de dépendance à la récompense si elle est mal travaillée",
         "La pratique extrême et exclusive de certains professionnels",

@@ -453,7 +453,7 @@
       id: "ethology-046",
       question: "Que s'est-il passé avec Watson lui-même dans l'expérience du petit Albert ?",
       answers: [
-        "Il est lui aussi devenu un stimulus conditionné : l'enfant avait la même réaction face à lui",
+        "Il est devenu un stimulus conditionné : l'enfant avait la même réaction face à lui",
         "Il est resté un stimulus neutre : l'enfant ne réagissait pas en sa présence",
         "Il est devenu un stimulus inconditionné, comme les barres de métal",
         "Il a provoqué une réponse inconditionnée dès le début de l'expérience"
@@ -609,13 +609,13 @@
       id: "ethology-056",
       question: "Qu'est-ce qu'un comportement ?",
       answers: [
-        "Un élément observable et une interaction animal-milieu",
+        "Ce qu'un organisme fait : l'ensemble de ses manifestations observables, en interaction avec son milieu",
         "Un état interne de l'animal, non observable de l'extérieur",
         "Une réponse réflexe uniquement, déclenchée par un stimulus inconditionné",
         "Un trait héréditaire transmis par l'espèce ancestrale"
       ],
       correct: [0],
-      explanation: "Un comportement, c'est un élément observable et une interaction animal-milieu."
+      explanation: "Un comportement, c'est ce qu'un organisme fait : un élément observable et une interaction animal-milieu."
     },
     {
       id: "ethology-057",

@@ -110,7 +110,7 @@
     },
     {
       id: "aggression-070",
-      question: "Quels sont d'autres signaux de la phase de menace ?",
+      question: "Lesquelles de ces propositions sont des signaux de la phase de menace ?",
       answers: [
         "Les oreilles redressées et tournées vers l'avant",
         "La contraction horizontale des lèvres (« pucker »)",
@@ -204,7 +204,7 @@
     },
     {
       id: "aggression-013",
-      question: "Quelles affirmations sont exactes sur ces paramètres ?",
+      question: "Quelles affirmations sont exactes sur les paramètres qui influencent l'intensité d'une agression ?",
       answers: [
         "Les agressions sont moins violentes dans un groupe ajusté",
         "Deux individus qui ne se connaissent pas peuvent se jauger par des comportements agressifs sans intensité réelle",
@@ -260,15 +260,15 @@
     },
     {
       id: "aggression-017",
-      question: "Parmi ces races, laquelle est citée comme la plus agressive (gradation du plus au moins agressif) ?",
+      question: "Parmi ces races, lesquelles sont citées comme agressives ?",
       answers: [
         "Le Teckel",
         "Le Cocker",
         "Le Westie",
         "Le Golden retriever"
       ],
-      correct: [0],
-      explanation: "La gradation de l'agressivité selon les races, du plus au moins : Teckel, Cockers, Westie, Golden retriever."
+      correct: [0, 1, 2],
+      explanation: "Le Teckel, les Cockers et le Westie sont cités parmi les races les plus agressives ; le Golden retriever n'en fait pas partie."
     },
     {
       id: "aggression-018",
@@ -417,13 +417,11 @@
       question: "Parmi ces affirmations sur les races et les morsures, lesquelles sont vraies ?",
       answers: [
         "Selon la plupart des études, les terriers et les chiens de berger mordent plus que la moyenne",
-        "Les retrievers mordent moins que la moyenne",
         "Sans données fiables sur les effectifs de chaque race, comparer les chiens mordeurs à la population générale est impossible",
-        "Les retrievers mordent plus que la moyenne",
         "Les races les plus agressives sont les mêmes dans toutes les études"
       ],
-      correct: [0, 1, 2],
-      explanation: "Terriers et bergers mordent plus, retrievers moins ; mais l'ANSES souligne l'absence de données fiables et que les races identifiées diffèrent selon les études."
+      correct: [0, 1],
+      explanation: "Terriers et bergers mordent plus ; mais l'ANSES souligne l'absence de données fiables et que les races identifiées diffèrent selon les études."
     },
     {
       id: "aggression-030",
@@ -534,7 +532,7 @@
     },
     {
       id: "aggression-068",
-      question: "Lesquelles de ces propositions correspondent également à un type d'agression ?",
+      question: "Parmi ces propositions, lesquelles sont des types d'agression ?",
       answers: [
         "L'agression par irritation",
         "L'agression compétitive et sociale",
@@ -547,7 +545,7 @@
     },
     {
       id: "aggression-069",
-      question: "Parmi ces propositions, lesquelles sont aussi des types d'agression ?",
+      question: "Lesquelles de ces propositions décrivent un type d'agression ?",
       answers: [
         "L'agression sexuelle",
         "L'agression apprise",

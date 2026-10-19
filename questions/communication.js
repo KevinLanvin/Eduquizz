@@ -10,7 +10,10 @@
 //   - the definition of the Umwelt and the "monde propre" idea -> ethology-001 (only the order of the
 //                                                                  dog's senses is asked here)
 //   - the neonatal period and the touch of the foetus            -> development theme
-//   - the definition of a stereotypy                             -> budget-016 (only its two goals here)
+//   - the definition of a stereotypy and its goals               -> budget-016 (a stereotypy is non-functional)
+//
+// Removed on purpose (never reuse this id): communication-032 ("two supposed goals of a stereotypy": a stereotypy
+// is non-functional, see budget-016).
 //   - the threat signals (staring, raised posture...)            -> aggression-007 / 070 / 071
 //   - Chaser and the 1000 words                                  -> cognition-023
 //
@@ -66,7 +69,7 @@
       question: "Parmi ces affirmations sur le processus de communication, lesquelles sont vraies ?",
       answers: [
         "Le signal peut être émis volontairement ou involontairement",
-        "La réponse à ce signal peut elle aussi être volontaire ou involontaire",
+        "La réponse à un signal peut être volontaire ou involontaire",
         "Le signal peut être ciblé (aboiement) ou diffusé (marquage)",
         "Le signal est soumis à interprétation : il doit toujours être contextualisé",
         "Le signal est toujours émis volontairement",
@@ -132,7 +135,7 @@
     },
     {
       id: "communication-009",
-      question: "Quels comportements du chien sont des non-signaux, qui peuvent devenir des signaux par évolution et ritualisation ?",
+      question: "Quels comportements du chien n'étaient pas des signaux à l'origine et le sont devenus par évolution et ritualisation ?",
       answers: [
         "Les comportements d'attaque et de prédation",
         "Le mouvement de préparation à la fuite",
@@ -175,7 +178,7 @@
     },
     {
       id: "communication-012",
-      question: "Quels sont les autres canaux de communication du chien ?",
+      question: "Parmi ces propositions, lesquelles sont des canaux de communication du chien ?",
       answers: [
         "La communication tactile",
         "La communication par le positionnement dans l'espace",
@@ -227,7 +230,7 @@
     },
     {
       id: "communication-016",
-      question: "Quelles autres capacités visuelles le chien a-t-il ?",
+      question: "Parmi ces propositions, lesquelles sont des capacités visuelles du chien ?",
       answers: [
         "Un champ visuel de 250° (180° pour l'Homme)",
         "Il est dichromate : cônes à 2 pigments (jaune et bleu), alors que l'Humain est trichromate",
@@ -344,7 +347,7 @@
     },
     {
       id: "communication-025",
-      question: "Quels autres états correspondent aux positions de queue du schéma ?",
+      question: "Quels états peuvent être exprimés par la position de la queue du chien ?",
       answers: [
         "L'anxiété",
         "La peur",
@@ -410,7 +413,7 @@
     },
     {
       id: "communication-030",
-      question: "Quels autres comportements sont des signaux d'apaisement ?",
+      question: "Parmi ces comportements, lesquels sont des signaux d'apaisement ?",
       answers: [
         "Lever la patte",
         "Décrire des cercles",
@@ -437,18 +440,6 @@
       explanation: "Détourner le regard (ou « rassurer »), se détourner, se secouer, remuer la queue, gratter."
     },
     {
-      id: "communication-032",
-      question: "Quels sont les deux buts supposés d'une stéréotypie ?",
-      answers: [
-        "Favoriser l'évitement",
-        "S'auto-stimuler",
-        "Demander l'attention du maître",
-        "Marquer un territoire"
-      ],
-      correct: [0, 1],
-      explanation: "Un comportement exprimé face au stress peut dégénérer en stéréotypie si le chien est régulièrement mis en situation de stress."
-    },
-    {
       id: "communication-033",
       question: "Parmi ces affirmations sur le Flehmen chez le chien, laquelle est vraie ?",
       answers: [
@@ -466,7 +457,7 @@
       id: "communication-034",
       question: "Parmi ces affirmations sur la communication visuelle de l'Homme vers le chien, lesquelles sont vraies ?",
       answers: [
-        "Le chien décode aussi nos postures, comportements, mimiques et micromouvements",
+        "Le chien décode nos postures, comportements, mimiques et micromouvements",
         "C'est un facteur d'influence extrêmement important sur son comportement",
         "Nos attitudes peuvent déclencher des troubles du comportement",
         "Nos attitudes peuvent renforcer un trouble du comportement (cercle vicieux)",
@@ -602,11 +593,11 @@
       question: "Parmi ces affirmations sur les phéromones de stress, lesquelles sont vraies ?",
       answers: [
         "Le chien stressé sécrète involontairement des phéromones de stress, principalement par les coussinets",
-        "En cas de stress important, il peut aussi vider ses glandes anales, uriner, faire ses selles",
-        "Ces comportements involontaires sont contrôlés par le système neurovégétatif (nerveux autonome)",
-        "Les chiens ont tendance à éviter les endroits marqués par ces phéromones",
-        "Ces phéromones sont émises volontairement pour appeler à l'aide",
-        "Les chiens recherchent les endroits marqués par ces phéromones"
+        "En cas de stress important, le chien peut vider ses glandes anales, uriner, faire ses selles",
+        "Les émissions involontaires (phéromones, urine, selles) sont contrôlées par le système neurovégétatif (nerveux autonome)",
+        "Les chiens ont tendance à éviter les endroits marqués par des phéromones de stress",
+        "Les phéromones de stress sont émises volontairement pour appeler à l'aide",
+        "Les chiens recherchent les endroits marqués par des phéromones de stress"
       ],
       correct: [0, 1, 2, 3],
       explanation: "Penser aux situations imposées au chien : vétérinaire, clubs, expositions, canicross..."
@@ -774,7 +765,7 @@
     },
     {
       id: "communication-057",
-      question: "Lesquelles de ces propositions correspondent également à un type d'aboiement ?",
+      question: "Parmi ces propositions, lesquelles décrivent un type d'aboiement ?",
       answers: [
         "L'aboiement de frustration (le chien ne peut pas accéder à ce qu'il souhaite)",
         "L'aboiement de poursuite (excitation, très développé chez les chiens courants)",
@@ -955,7 +946,7 @@
       answers: [
         "Il peut se manifester chez les mâles comme chez les femelles : généralement un déficit d'imprégnation",
         "On le retrouve chez des chiens nés dans des conditions d'élevage très dégradées (ou sauvages)",
-        "Il peut aussi être d'origine génétique, notamment chez les hybrides (chien-loup de Saarloos en particulier)",
+        "Le positionnement d'anxiété peut être d'origine génétique, notamment chez les hybrides (chien-loup de Saarloos en particulier)",
         "Il ne se manifeste que chez les mâles non castrés",
         "Il apparaît systématiquement pendant la puberté"
       ],
@@ -1077,7 +1068,7 @@
       question: "Parmi ces affirmations sur les fondamentaux de la communication non acquis, lesquelles sont vraies ?",
       answers: [
         "Une incapacité totale à comprendre certains messages vient généralement d'un déficit lors de la phase d'imprégnation",
-        "Des prédispositions génétiques peuvent aussi en être à l'origine",
+        "Des prédispositions génétiques peuvent être à l'origine d'une communication non acquise",
         "La caractéristique principale reste la non-maîtrise des autocontrôles d'une séquence comportementale",
         "Elle vient toujours d'une éducation tardive après la puberté",
         "La caractéristique principale est un excès d'obéissance"
@@ -1113,7 +1104,7 @@
     },
     {
       id: "communication-082",
-      question: "Quels autres paramètres peuvent créer des troubles de la communication ?",
+      question: "Quels facteurs extérieurs au chien peuvent créer des troubles de la communication ?",
       answers: [
         "Le maître influence son chien et ses communications",
         "Le ou les congénères de la maison influencent ses communications",
