@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#6f9929">
+  <title>Educhien Quizz</title>
+  <link rel="preload" href="fonts/open-sans-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <quiz-app id="app">
+    <screen-home id="home" class="screen"></screen-home>
+    <screen-question id="question" class="screen"></screen-question>
+    <screen-result id="result" class="screen center"></screen-result>
+    <screen-end id="end" class="screen center end-bg"></screen-end>
+    <screen-confirm id="confirm" class="screen"></screen-confirm>
+  </quiz-app>
+
+  <!-- Small confirmation message (e.g. "Lien copié !") -->
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <!-- 1. The questions: one file per theme (adding a theme = adding a line) -->
+  <script src="questions/origins.js"></script>
+  <script src="questions/ethology.js"></script>
+  <script src="questions/genetics.js"></script>
+  <script src="questions/budget.js"></script>
+  <script src="questions/temperament.js"></script>
+  <script src="questions/social.js"></script>
+  <script src="questions/cognition.js"></script>
+  <script src="questions/fear.js"></script>
+  <script src="questions/aggression.js"></script>
+  <script src="questions/development.js"></script>
+  <script src="questions/communication.js"></script>
+  <script src="questions/traditional.js"></script>
+  <script src="questions/positive.js"></script>
+  <script src="questions/natural.js"></script>
+  <script src="questions/balance.js"></script>
+  <script src="questions/puppy.js"></script>
+
+  <!-- 2. The logic, no display code -->
+  <script src="js/utils.js"></script>
+  <script src="js/progress-store.js"></script>
+  <script src="js/question-bank.js"></script>
+  <script src="js/series-link.js"></script>
+
+  <!-- 3. The screens (one file each) -->
+  <script src="js/components/screen.js"></script>
+  <script src="js/components/screen-home.js"></script>
+  <script src="js/components/screen-question.js"></script>
+  <script src="js/components/screen-result.js"></script>
+  <script src="js/components/screen-end.js"></script>
+  <script src="js/components/screen-confirm.js"></script>
+
+  <!-- 4. The conductor, last -->
+  <script src="js/quiz-app.js"></script>
+</body>
+</html>
