@@ -21,7 +21,7 @@
     // ---------- L'agression : un comportement naturel ----------
     {
       id: "aggression-001",
-      question: "Comment le cours définit-il l'agression ?",
+      question: "Comment définit-on l'agression ?",
       answers: [
         "Un comportement adaptatif, qui appartient au répertoire des comportements normaux des espèces, à visée sociale",
         "Un comportement anormal et pathologique, provoqué par un trouble du développement ou de la relation",
@@ -33,7 +33,7 @@
     },
     {
       id: "aggression-002",
-      question: "Que dit le cours de l'agression comme interaction ?",
+      question: "Parmi ces affirmations sur l'agression comme interaction, lesquelles sont vraies ?",
       answers: [
         "Elle implique nécessairement deux individus",
         "Le comportement d'un individu ne peut s'interpréter qu'en tenant compte du comportement du deuxième",
@@ -248,7 +248,7 @@
     },
     {
       id: "aggression-016",
-      question: "Que dit le cours des races de chiens de garde et de police ?",
+      question: "Parmi ces affirmations sur les races de chiens de garde et de police, laquelle est vraie ?",
       answers: [
         "Elles ont un seuil de déclenchement de l'agressivité plus bas que les autres races",
         "Elles ont un seuil de déclenchement de l'agressivité plus haut que les autres races",
@@ -298,7 +298,7 @@
     },
     {
       id: "aggression-020",
-      question: "Que dit le cours du sexe et de l'agressivité ?",
+      question: "Parmi ces affirmations sur le sexe et l'agressivité, lesquelles sont vraies ?",
       answers: [
         "Dans la plupart des études, les mâles ressortent comme plus agressifs",
         "Chez Educhien, environ sept chiens sur dix reçus pour agressivité sont des mâles",
@@ -311,7 +311,7 @@
     },
     {
       id: "aggression-021",
-      question: "Que disent les notes du cours sur la stérilisation et l'agressivité ?",
+      question: "Parmi ces affirmations sur la stérilisation et l'agressivité, lesquelles sont vraies ?",
       answers: [
         "Elle est acceptable pour une agressivité dirigée uniquement vers les autres mâles",
         "Elle n'est pas conseillée si elle est précoce (avant 3 ans) : masse musculaire en baisse, masse graisseuse en hausse, à déconseiller sur les grands chiens",
@@ -401,7 +401,7 @@
     },
     {
       id: "aggression-028",
-      question: "Que dit le cours des chiffres de morsure en France ?",
+      question: "Parmi ces affirmations sur les chiffres de morsure en France, lesquelles sont vraies ?",
       answers: [
         "Seuls les organismes publics recensent les morsures déclarées",
         "Environ 10 000 morsures par an font l'objet d'une mise sous surveillance sanitaire",
@@ -414,7 +414,7 @@
     },
     {
       id: "aggression-029",
-      question: "Que dit le cours des races et des morsures ?",
+      question: "Parmi ces affirmations sur les races et les morsures, lesquelles sont vraies ?",
       answers: [
         "Selon la plupart des études, les terriers et les chiens de berger mordent plus que la moyenne",
         "Les retrievers mordent moins que la moyenne",
@@ -427,7 +427,7 @@
     },
     {
       id: "aggression-030",
-      question: "Que dit le cours des chiffres de pression de mâchoire (en kg/cm²) ?",
+      question: "Parmi ces affirmations sur les chiffres de pression de mâchoire (en kg/cm²), lesquelles sont vraies ?",
       answers: [
         "La source n'est absolument pas fiable : l'origine des données est incertaine",
         "Aucun chiffre fiable n'a pu être obtenu : il y a trop de variabilité",
@@ -467,7 +467,7 @@
     },
     {
       id: "aggression-033",
-      question: "Que dit le cours de l'évaluation comportementale d'un chien mordeur ?",
+      question: "Parmi ces affirmations sur l'évaluation comportementale d'un chien mordeur, lesquelles sont vraies ?",
       answers: [
         "Elle est faite par un vétérinaire inscrit sur la liste départementale des vétérinaires agréés",
         "Elle classe le niveau de dangerosité du chien entre 1 et 4",
@@ -506,7 +506,7 @@
     },
     {
       id: "aggression-036",
-      question: "Que dit le cours de l'euthanasie des chiens ?",
+      question: "Parmi ces affirmations sur l'euthanasie des chiens, lesquelles sont vraies ?",
       answers: [
         "La première cause d'euthanasie du chien est comportementale",
         "Les trois principales causes sont l'agressivité, l'incontinence et la destruction",
@@ -521,7 +521,7 @@
     // ---------- Les 10 types d'agression ----------
     {
       id: "aggression-037",
-      question: "Quels sont des types d'agression présentés dans le cours ?",
+      question: "Lesquelles de ces propositions correspondent à un type d'agression ?",
       answers: [
         "L'agression prédatrice",
         "L'agression de distancement",
@@ -534,7 +534,7 @@
     },
     {
       id: "aggression-068",
-      question: "Quels sont d'autres types d'agression présentés dans le cours ?",
+      question: "Lesquelles de ces propositions correspondent également à un type d'agression ?",
       answers: [
         "L'agression par irritation",
         "L'agression compétitive et sociale",
@@ -547,7 +547,7 @@
     },
     {
       id: "aggression-069",
-      question: "Parmi ces propositions, lesquelles sont aussi des types d'agression du cours ?",
+      question: "Parmi ces propositions, lesquelles sont aussi des types d'agression ?",
       answers: [
         "L'agression sexuelle",
         "L'agression apprise",
@@ -561,7 +561,7 @@
     },
     {
       id: "aggression-038",
-      question: "Comment le cours renomme-t-il l'agression dite « territoriale » ?",
+      question: "Comment renomme-t-on l'agression dite « territoriale » ?",
       answers: [
         "Agression de distancement",
         "Agression de protection",
@@ -573,7 +573,7 @@
     },
     {
       id: "aggression-039",
-      question: "Que dit le cours de l'agression de distancement ?",
+      question: "Parmi ces affirmations sur l'agression de distancement, lesquelles sont vraies ?",
       answers: [
         "La distance de sécurité correspond à la limite extérieure du « territoire »",
         "Ici, le territoire est l'espace où le chien réside, trouve l'essentiel de ses ressources et où le stress de l'inconnu se dissipe",
@@ -599,7 +599,7 @@
     },
     {
       id: "aggression-041",
-      question: "Que dit le cours de l'agression hiérarchique ?",
+      question: "Parmi ces affirmations sur l'agression hiérarchique, lesquelles sont vraies ?",
       answers: [
         "On l'appelle aussi « agression de dominance »",
         "C'est un comportement à visée sociale qui permet d'établir une relation de dominance/subordination entre deux individus",
@@ -613,7 +613,7 @@
     },
     {
       id: "aggression-042",
-      question: "Que dit le cours de l'agression par irritation ?",
+      question: "Parmi ces affirmations sur l'agression par irritation, lesquelles sont vraies ?",
       answers: [
         "C'est l'agression la plus courante chez le chien",
         "Elle survient quand un individu contraint le chien, lui fait peur ou lui fait mal",
@@ -667,7 +667,7 @@
     },
     {
       id: "aggression-046",
-      question: "Que dit le cours de l'agression de jeu ?",
+      question: "Parmi ces affirmations sur l'agression de jeu, lesquelles sont vraies ?",
       answers: [
         "Le jeu est essentiel au développement (locomotion, socialisation, prédation, agression, sexualité)",
         "Il est constitué de simulacres de comportements de prédation et d'agression",
@@ -693,7 +693,7 @@
     },
     {
       id: "aggression-048",
-      question: "Que dit le cours des débordements du jeu en groupe ?",
+      question: "Parmi ces affirmations sur les débordements du jeu en groupe, lesquelles sont vraies ?",
       answers: [
         "Ils sont particulièrement courants dans les groupes de chiots et de jeunes adultes",
         "Les simulacres d'agression s'intensifient quand les chiens sont en groupe",
@@ -706,7 +706,7 @@
     },
     {
       id: "aggression-049",
-      question: "Que dit le cours de l'agression sexuelle ?",
+      question: "Parmi ces affirmations sur l'agression sexuelle, lesquelles sont vraies ?",
       answers: [
         "Elle est manifestée par des chiens mâles vis-à-vis de femelles (ou de mâles castrés)",
         "Ils cherchent à les contraindre à l'accouplement, par des comportements agressifs pouvant aller jusqu'à la morsure",
@@ -720,7 +720,7 @@
     },
     {
       id: "aggression-050",
-      question: "À quoi correspond notamment l'agression apprise, d'après les notes du cours ?",
+      question: "À quoi correspond notamment l'agression apprise ?",
       answers: [
         "Aux sports de mordant",
         "À l'agility",
@@ -732,7 +732,7 @@
     },
     {
       id: "aggression-051",
-      question: "Que dit le cours de l'agression de meute (ganging) ?",
+      question: "Parmi ces affirmations sur l'agression de meute (ganging), lesquelles sont vraies ?",
       answers: [
         "Elle est caractérisée par la présence d'au moins 3 individus",
         "Un agresseur déclenche les hostilités et d'autres individus rejoignent le conflit, agressant la plupart du temps le plus faible",
@@ -746,7 +746,7 @@
     },
     {
       id: "aggression-052",
-      question: "Que dit le cours de l'agression redirigée ?",
+      question: "Parmi ces affirmations sur l'agression redirigée, lesquelles sont vraies ?",
       answers: [
         "Elle est provoquée par une situation de frustration",
         "Le chien veut agresser un autre individu mais ne peut pas y accéder (situation la plus courante)",
@@ -774,7 +774,7 @@
     // ---------- L'agression prédatrice ----------
     {
       id: "aggression-054",
-      question: "Que dit le cours de l'agression prédatrice ?",
+      question: "Parmi ces affirmations sur l'agression prédatrice, lesquelles sont vraies ?",
       answers: [
         "C'est l'agression d'un individu se comportant en prédateur vers un autre considéré comme une proie",
         "Prédation = pas de communication",
@@ -813,7 +813,7 @@
     },
     {
       id: "aggression-057",
-      question: "Que dit le cours de la prédation entre chiens ?",
+      question: "Parmi ces affirmations sur la prédation entre chiens, lesquelles sont vraies ?",
       answers: [
         "Le chien est censé intégrer dans le concept « Chiens » tous les individus de sa propre espèce, grands ou petits",
         "Le processus est parfois déficient : certains grands chiens adoptent des comportements de prédation sur leurs congénères les plus petits",
@@ -829,7 +829,7 @@
     // ---------- Expliquer l'agression : schémas et modèles ----------
     {
       id: "aggression-058",
-      question: "Que dit le modèle du calcul additionnel des facteurs déclencheurs ?",
+      question: "Parmi ces affirmations sur le modèle du calcul additionnel des facteurs déclencheurs, lesquelles sont vraies ?",
       answers: [
         "Les facteurs déclencheurs s'additionnent",
         "L'agression se déclenche quand le seuil de déclenchement est franchi",
@@ -854,7 +854,7 @@
     },
     {
       id: "aggression-060",
-      question: "Que dit le cours de la suite F.L.I. ?",
+      question: "Parmi ces affirmations sur la suite F.L.I., lesquelles sont vraies ?",
       answers: [
         "Dans une situation de stress, le chien est soumis à son instinct : son cerveau reptilien, plus précisément l'hypothalamus, guide ses réactions",
         "En cas d'échec d'une stratégie, le chien essaie une autre stratégie de survie",
@@ -894,7 +894,7 @@
     },
     {
       id: "aggression-063",
-      question: "Que dit la note du cours sur l'activité agressive, dans le modèle activité du Dr Dehasse ?",
+      question: "Parmi ces affirmations sur l'activité agressive dans le modèle activité du Dr Dehasse, laquelle est vraie ?",
       answers: [
         "Elle permet de combler un déficit d'activité générale : l'activité générale est donc à traiter",
         "Elle remplace complètement toutes les autres activités du chien lorsque celui-ci est frustré de façon durable",
@@ -947,7 +947,7 @@
     },
     {
       id: "aggression-067",
-      question: "Quelles sont des conclusions du cours sur l'agression ?",
+      question: "Quelles conclusions peut-on tirer sur l'agression ?",
       answers: [
         "L'agressivité fait partie du répertoire comportemental normal du chien",
         "La meilleure arme est la prévention : éduquer le chien, mais aussi l'Humain",

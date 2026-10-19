@@ -47,7 +47,7 @@
     },
     {
       id: "development-003",
-      question: "Que dit le cours du développement cellulaire pendant la période prénatale ?",
+      question: "Parmi ces affirmations sur le développement cellulaire pendant la période prénatale, lesquelles sont vraies ?",
       answers: [
         "Le développement se fait sous l'influence du patrimoine génétique de la mère et du père",
         "La neurogenèse donne naissance à tous les neurones de l'animal",
@@ -73,7 +73,7 @@
     },
     {
       id: "development-005",
-      question: "Que dit le cours de la sensibilité tactile du fœtus ?",
+      question: "Parmi ces affirmations sur la sensibilité tactile du fœtus, lesquelles sont vraies ?",
       answers: [
         "Le fœtus de 40 à 45 jours réagit aux stimulations tactiles de l'abdomen de la mère par un mouvement de retrait",
         "Il réagit aux stimulations positives (léchage, caresses) par habituation",
@@ -126,7 +126,7 @@
     },
     {
       id: "development-009",
-      question: "Que dit le cours des échanges du chiot nouveau-né ?",
+      question: "Parmi ces affirmations sur les échanges du chiot nouveau-né, lesquelles sont vraies ?",
       answers: [
         "Il ne se déplace que pour trouver de la chaleur et se nourrir",
         "Il ne communique que par des gémissements lorsqu'il se perd et lorsque sa mère le lèche",
@@ -167,7 +167,7 @@
     },
     {
       id: "development-012",
-      question: "Qu'est-ce que l'imprégnation, selon la définition clé du cours ?",
+      question: "Qu'est-ce que l'imprégnation ?",
       answers: [
         "Un phénomène instinctif d'interaction avec le milieu, limité dans le temps, de durée variable selon les espèces",
         "Un apprentissage par conditionnement, qui peut se faire à tout âge avec des récompenses",
@@ -191,7 +191,7 @@
     },
     {
       id: "development-014",
-      question: "Que dit le cours des espèces nidicoles et nidifuges ?",
+      question: "Parmi ces affirmations sur les espèces nidicoles et nidifuges, lesquelles sont vraies ?",
       answers: [
         "Les espèces nidicoles dépendent entièrement de leur mère à la naissance",
         "Chez elles, la phase d'imprégnation dure plus longtemps",
@@ -216,7 +216,7 @@
     },
     {
       id: "development-016",
-      question: "Que dit le cours du cerveau du chiot pendant l'imprégnation ?",
+      question: "Parmi ces affirmations sur le cerveau du chiot pendant l'imprégnation, lesquelles sont vraies ?",
       answers: [
         "Il possède déjà la quasi-totalité de ses cellules à la naissance",
         "Il ne pèse alors que 20 % du poids qu'il atteindra à l'âge adulte",
@@ -268,7 +268,7 @@
     },
     {
       id: "development-020",
-      question: "Que dit le cours des conséquences d'un défaut d'imprégnation chez le chiot ?",
+      question: "Parmi ces affirmations sur les conséquences d'un défaut d'imprégnation chez le chiot, lesquelles sont vraies ?",
       answers: [
         "La phase d'imprégnation construit les structures neuronales qui permettront d'appréhender ou non un stimulus, un environnement, une situation",
         "Si la structure n'a pas été construite pendant cette période, l'adaptation est extrêmement compliquée et parfois impossible",
@@ -280,7 +280,7 @@
     },
     {
       id: "development-021",
-      question: "Quels exemples de développement pauvre pendant l'imprégnation le cours cite-t-il ?",
+      question: "Lesquelles de ces propositions correspondent à un exemple de développement pauvre pendant l'imprégnation ?",
       answers: [
         "Un chiot qui grandit dans une pièce sombre, sans sortir",
         "Un chiot qui grandit sans stimuli sonores ménagers ou urbains",
@@ -320,7 +320,7 @@
     },
     {
       id: "development-024",
-      question: "Que dit le cours de l'empreinte intraspécifique ?",
+      question: "Parmi ces affirmations sur l'empreinte intraspécifique, lesquelles sont vraies ?",
       answers: [
         "C'est la première empreinte du chiot, lors des premières semaines",
         "Elle permet l'identification à l'espèce chien par les contacts avec la mère, la fratrie et d'autres chiens",
@@ -334,7 +334,7 @@
     },
     {
       id: "development-025",
-      question: "Que dit le cours de l'empreinte interspécifique ?",
+      question: "Parmi ces affirmations sur l'empreinte interspécifique, lesquelles sont vraies ?",
       answers: [
         "Le marquage est plus important à partir de la 5e semaine, jusqu'à la fin de l'imprégnation (12, voire 16 semaines)",
         "C'est un phénomène plus facilement réversible que l'imprégnation intraspécifique",
@@ -346,7 +346,7 @@
     },
     {
       id: "development-026",
-      question: "Que dit le cours de l'empreinte à l'Homme ?",
+      question: "Parmi ces affirmations sur l'empreinte à l'Homme, lesquelles sont vraies ?",
       answers: [
         "Il y a une absolue nécessité de confronter le chien à un maximum de types d'humains (bébé, enfant, adulte, femme, homme, forte corpulence...)",
         "Les problèmes de mauvaise familiarisation primaire sont récurrents : chiens anxieux face aux enfants, aux hommes, aux personnes de couleur",
@@ -359,7 +359,7 @@
     },
     {
       id: "development-027",
-      question: "Que dit le cours de la familiarisation à d'autres espèces ?",
+      question: "Parmi ces affirmations sur la familiarisation à d'autres espèces, lesquelles sont vraies ?",
       answers: [
         "Pendant cette phase, un chien peut se familiariser aux chats, rongeurs, volailles, équidés...",
         "Ce n'est pas un processus indélébile : la familiarisation doit être entretenue",
@@ -372,7 +372,7 @@
     },
     {
       id: "development-028",
-      question: "Que dit le cours de l'empreinte au biotope ?",
+      question: "Parmi ces affirmations sur l'empreinte au biotope, lesquelles sont vraies ?",
       answers: [
         "Elle est extrêmement importante et accompagne l'éveil des sens",
         "Le chiot doit s'imprégner d'un maximum de bruits, textures, odeurs, mouvements et objets de l'environnement",
@@ -452,7 +452,7 @@
     },
     {
       id: "development-034",
-      question: "Que dit le cours de la gestion de conflits chez le chiot ?",
+      question: "Parmi ces affirmations sur la gestion de conflits chez le chiot, lesquelles sont vraies ?",
       answers: [
         "C'est la première étape de la « hiérarchisation » (la deuxième a lieu à la puberté)",
         "Elle se manifeste lors de deux temps forts de la journée : les repas et le jeu",
@@ -543,7 +543,7 @@
     },
     {
       id: "development-041",
-      question: "Que dit le cours du détachement ?",
+      question: "Parmi ces affirmations sur le détachement, lesquelles sont vraies ?",
       answers: [
         "À partir du sevrage (environ 4 semaines), la mère joue un rôle actif : elle repousse les chiots qui lui font mal avec leurs dents",
         "Les adoptants doivent poursuivre ce processus en trouvant le bon équilibre, notamment avec des règles d'espace",
@@ -650,7 +650,7 @@
     },
     {
       id: "development-049",
-      question: "Que dit le cours de la puberté hormonale ?",
+      question: "Parmi ces affirmations sur la puberté hormonale, lesquelles sont vraies ?",
       answers: [
         "Des changements physiques apparaissent (développement musculaire chez le mâle)",
         "La communication intraspécifique est modifiée (hormones, phéromones et odeurs)",
@@ -756,7 +756,7 @@
     },
     {
       id: "development-057",
-      question: "Que dit le cours de la neurogenèse adulte ?",
+      question: "Parmi ces affirmations sur la neurogenèse adulte, lesquelles sont vraies ?",
       answers: [
         "Il est faux d'affirmer qu'il est illusoire d'habituer un chien à ce dont il n'a pas été imprégné : l'expérience le prouve",
         "Une neurogenèse localisée persiste chez l'adulte",

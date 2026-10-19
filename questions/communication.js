@@ -36,7 +36,7 @@
     },
     {
       id: "communication-002",
-      question: "Que dit le cours de l'histoire de la communication animale ?",
+      question: "Parmi ces affirmations sur l'histoire de la communication animale, lesquelles sont vraies ?",
       answers: [
         "Jusqu'aux années 1930, on suit la théorie de Darwin : seul l'Homme exprime des idées, sentiments ou émotions, l'animal n'exprime qu'une humeur",
         "Les béhavioristes estiment que la communication se limite au schéma stimuli-réponse",
@@ -63,7 +63,7 @@
     },
     {
       id: "communication-004",
-      question: "Que dit le cours du processus de communication ?",
+      question: "Parmi ces affirmations sur le processus de communication, lesquelles sont vraies ?",
       answers: [
         "Le signal peut être émis volontairement ou involontairement",
         "La réponse à ce signal peut elle aussi être volontaire ou involontaire",
@@ -79,7 +79,7 @@
     // ---------- Le modèle cybernétique et la ritualisation ----------
     {
       id: "communication-005",
-      question: "Que dit le modèle cybernétique de la communication ?",
+      question: "Parmi ces affirmations sur le modèle cybernétique de la communication, lesquelles sont vraies ?",
       answers: [
         "Il décrit un enchaînement séquentiel, en « zig zag », des actions des deux partenaires",
         "Le récepteur qui produit sa réponse devient à son tour émetteur, et l'émetteur initial le nouveau récepteur",
@@ -120,7 +120,7 @@
     },
     {
       id: "communication-008",
-      question: "Quel exemple de ritualisation le cours donne-t-il ?",
+      question: "Quel est un exemple de ritualisation ?",
       answers: [
         "Le comportement de cour du héron cendré et du cormoran : une agitation rythmique des ailes dérivée du battement avant le vol",
         "Le grognement du chien, dérivé des vocalises émises par le chiot nouveau-né lorsqu'il est séparé de sa mère",
@@ -188,7 +188,7 @@
     },
     {
       id: "communication-013",
-      question: "Que dit le cours de la multimodalité de la communication ?",
+      question: "Parmi ces affirmations sur la multimodalité de la communication, lesquelles sont vraies ?",
       answers: [
         "Les émissions peuvent être simultanées, avec des signaux de différents canaux (grogne et montre les dents : acoustique + visuel)",
         "Les émissions peuvent être séquentielles (s'approche, renifle puis mord : visuel + olfactif + tactile)",
@@ -252,7 +252,7 @@
     },
     {
       id: "communication-018",
-      question: "Que dit le cours de la communication visuelle ?",
+      question: "Parmi ces affirmations sur la communication visuelle, lesquelles sont vraies ?",
       answers: [
         "Elle s'établit à moyenne distance et de façon simultanée",
         "C'est un canal particulièrement important dans la communication Homme-chien",
@@ -290,7 +290,7 @@
     },
     {
       id: "communication-021",
-      question: "Que dit le cours des mimiques faciales du chien ?",
+      question: "Parmi ces affirmations sur les mimiques faciales du chien, lesquelles sont vraies ?",
       answers: [
         "Le chien communique beaucoup au travers de ses mimiques faciales",
         "Les couleurs plus marquées sur la face du loup rendent cette communication plus fonctionnelle",
@@ -304,7 +304,7 @@
     },
     {
       id: "communication-022",
-      question: "Que dit le cours des micromouvements ?",
+      question: "Parmi ces affirmations sur les micromouvements, lesquelles sont vraies ?",
       answers: [
         "Ce sont des informations importantes qui complètent l'interprétation d'une posture, d'une mimique ou d'un mouvement",
         "La queue en fait partie : 7 positions de menace à soumission",
@@ -383,7 +383,7 @@
     },
     {
       id: "communication-028",
-      question: "Que disent les notes du cours sur les signaux d'apaisement ?",
+      question: "Parmi ces affirmations sur les signaux d'apaisement, lesquelles sont vraies ?",
       answers: [
         "Ils sont à contextualiser",
         "Il n'existe aucune preuve scientifique, car ils sont utilisés dans de nombreux contextes",
@@ -450,7 +450,7 @@
     },
     {
       id: "communication-033",
-      question: "Que dit le cours du Flehmen chez le chien ?",
+      question: "Parmi ces affirmations sur le Flehmen chez le chien, laquelle est vraie ?",
       answers: [
         "Il n'existe pas aussi marqué que chez d'autres animaux comme le lion, le cheval, le cerf ou le bouquetin",
         "Il est aussi marqué que chez le cheval, et le chien l'utilise pour explorer les odeurs de l'urine",
@@ -464,7 +464,7 @@
     // ---------- De l'Homme au chien (visuel) ----------
     {
       id: "communication-034",
-      question: "Que dit le cours de la communication visuelle de l'Homme vers le chien ?",
+      question: "Parmi ces affirmations sur la communication visuelle de l'Homme vers le chien, lesquelles sont vraies ?",
       answers: [
         "Le chien décode aussi nos postures, comportements, mimiques et micromouvements",
         "C'est un facteur d'influence extrêmement important sur son comportement",
@@ -507,7 +507,7 @@
     // ---------- La communication olfactive ----------
     {
       id: "communication-037",
-      question: "Que dit le cours de l'odorat du chien ?",
+      question: "Parmi ces affirmations sur l'odorat du chien, lesquelles sont vraies ?",
       answers: [
         "C'est le sens le plus développé",
         "Son épithélium olfactif fait environ 7 000 mm² (35 fois moins chez l'Homme)",
@@ -534,7 +534,7 @@
     },
     {
       id: "communication-039",
-      question: "Que dit le cours de la communication olfactive ?",
+      question: "Parmi ces affirmations sur la communication olfactive, lesquelles sont vraies ?",
       answers: [
         "Elle s'établit à courte ou longue distance, de façon simultanée ou différée",
         "C'est la perception d'éléments chimiques (phéromones) émis volontairement ou non",
@@ -573,7 +573,7 @@
     },
     {
       id: "communication-042",
-      question: "Que dit la définition stricte d'une phéromone en éthologie ?",
+      question: "Parmi ces affirmations sur la définition stricte d'une phéromone en éthologie, lesquelles sont vraies ?",
       answers: [
         "C'est une molécule simple dont la perception est spécifique aux membres de l'espèce",
         "1 molécule = 1 réaction systématique chez tous les membres de l'espèce",
@@ -586,7 +586,7 @@
     },
     {
       id: "communication-043",
-      question: "Que dit le cours des phéromones au sens strict chez les animaux ?",
+      question: "Parmi ces affirmations sur les phéromones au sens strict chez les animaux, lesquelles sont vraies ?",
       answers: [
         "Elles sont prouvées chez les insectes (ex : les fourmis)",
         "Chez les mammifères, seule la phéromone mammaire de la lapine a été identifiée",
@@ -599,7 +599,7 @@
     },
     {
       id: "communication-044",
-      question: "Que dit le cours des phéromones de stress ?",
+      question: "Parmi ces affirmations sur les phéromones de stress, lesquelles sont vraies ?",
       answers: [
         "Le chien stressé sécrète involontairement des phéromones de stress, principalement par les coussinets",
         "En cas de stress important, il peut aussi vider ses glandes anales, uriner, faire ses selles",
@@ -613,7 +613,7 @@
     },
     {
       id: "communication-045",
-      question: "Que dit le cours des phéromones sexuelles ?",
+      question: "Parmi ces affirmations sur les phéromones sexuelles, lesquelles sont vraies ?",
       answers: [
         "Elles sont principalement transmises au travers des urines",
         "Chez les mâles entiers : le chien sent voire lèche des urines, puis salive abondamment et claque des dents, gueule entrouverte",
@@ -627,7 +627,7 @@
     },
     {
       id: "communication-046",
-      question: "Que dit le cours du marquage urinaire ?",
+      question: "Parmi ces affirmations sur le marquage urinaire, lesquelles sont vraies ?",
       answers: [
         "Il induit chez le récepteur une exploration olfactive et un marquage urinaire",
         "Il implique généralement un signal visuel : la patte levée (quasi systématique chez le mâle)",
@@ -641,7 +641,7 @@
     },
     {
       id: "communication-047",
-      question: "Que dit le cours des urines de chiens stérilisés ?",
+      question: "Parmi ces affirmations sur les urines de chiens stérilisés, lesquelles sont vraies ?",
       answers: [
         "Elles sont flairées plus longtemps que celles de chiens entiers",
         "La stérilisation change donc les informations transmises par l'animal",
@@ -665,7 +665,7 @@
     },
     {
       id: "communication-049",
-      question: "Que dit le cours des phéromones sociales et territoriales ?",
+      question: "Parmi ces affirmations sur les phéromones sociales et territoriales, lesquelles sont vraies ?",
       answers: [
         "Elles permettent aux chiens de s'identifier mutuellement : chiens tête-bêche lors d'une rencontre, pour déterminer le sexe",
         "Le grattage après le marquage urinaire permet de déposer des phéromones d'identification",
@@ -706,7 +706,7 @@
     // ---------- La communication auditive ----------
     {
       id: "communication-052",
-      question: "Que dit le cours des capacités auditives du chien ?",
+      question: "Parmi ces affirmations sur les capacités auditives du chien, lesquelles sont vraies ?",
       answers: [
         "Il perçoit les sons jusqu'à 65 kHz (20 kHz chez l'Humain)",
         "Ses oreilles sont mobiles, ce qui renforce fortement ses capacités auditives",
@@ -720,7 +720,7 @@
     },
     {
       id: "communication-053",
-      question: "Que dit le cours de la communication auditive ?",
+      question: "Parmi ces affirmations sur la communication auditive, lesquelles sont vraies ?",
       answers: [
         "Elle s'établit généralement à courte et moyenne distance, de façon simultanée",
         "C'est la perception d'éléments sonores émis volontairement par l'émetteur",
@@ -733,7 +733,7 @@
     },
     {
       id: "communication-054",
-      question: "Que dit le cours de l'hypertrophie de la communication auditive ?",
+      question: "Parmi ces affirmations sur l'hypertrophie de la communication auditive, lesquelles sont vraies ?",
       answers: [
         "Le chien primitif ne présentait sûrement pas une aussi grande diversité de vocalises que le chien moderne",
         "Le loup ne présente que 4 à 9 vocalises, principalement des hurlements et gémissements",
@@ -761,7 +761,7 @@
     },
     {
       id: "communication-056",
-      question: "Quels sont des types d'aboiement présentés dans le cours ?",
+      question: "Lesquelles de ces propositions correspondent à un type d'aboiement ?",
       answers: [
         "L'aboiement de défense du « territoire » (derrière un grillage ou un portail, lié à de la frustration, avec des postures hautes)",
         "L'aboiement de distanciation (repousser un autre individu, parfois accompagné d'une « charge »)",
@@ -774,7 +774,7 @@
     },
     {
       id: "communication-057",
-      question: "Quels sont d'autres types d'aboiement présentés dans le cours ?",
+      question: "Lesquelles de ces propositions correspondent également à un type d'aboiement ?",
       answers: [
         "L'aboiement de frustration (le chien ne peut pas accéder à ce qu'il souhaite)",
         "L'aboiement de poursuite (excitation, très développé chez les chiens courants)",
@@ -788,7 +788,7 @@
     },
     {
       id: "communication-058",
-      question: "Que dit le cours du grognement ?",
+      question: "Parmi ces affirmations sur le grognement, lesquelles sont vraies ?",
       answers: [
         "Le grognement de jeu est le plus courant (tirer sur une corde, jouer à la lutte)",
         "Le grognement d'excitation est souvent ritualisé (le chien fait la fête ou appelle à jouer)",
@@ -815,7 +815,7 @@
     },
     {
       id: "communication-060",
-      question: "Que dit le cours de la communication sonore de l'Homme vers le chien ?",
+      question: "Parmi ces affirmations sur la communication sonore de l'Homme vers le chien, lesquelles sont vraies ?",
       answers: [
         "Par conditionnement opérant, le chien mémorise en moyenne de 20 à 100 mots",
         "Plus qu'aux mots, le chien prête attention à l'intonation (intensité + fréquence + vitesse)",
@@ -857,7 +857,7 @@
     // ---------- La communication tactile ----------
     {
       id: "communication-063",
-      question: "Que dit le cours de la communication tactile ?",
+      question: "Parmi ces affirmations sur la communication tactile, lesquelles sont vraies ?",
       answers: [
         "Elle s'établit à très courte distance, au contact de l'individu, de façon simultanée",
         "La communication tactile telle que l'Homme la conçoit doit faire l'objet d'une imprégnation",
@@ -883,7 +883,7 @@
     },
     {
       id: "communication-065",
-      question: "Que dit le cours de la communication tactile avec l'Homme ?",
+      question: "Parmi ces affirmations sur la communication tactile avec l'Homme, lesquelles sont vraies ?",
       answers: [
         "Les caresses et câlins ne sont pas appréciés d'inné : ce n'est pas un code canin, le chien apprend à les apprécier (ou pas)",
         "Tous les chiens n'acceptent pas forcément les contacts tactiles avec les inconnus",
@@ -925,7 +925,7 @@
     // ---------- Le positionnement dans l'espace ----------
     {
       id: "communication-068",
-      question: "Que dit le cours de la communication par le positionnement dans l'espace ?",
+      question: "Parmi ces affirmations sur la communication par le positionnement dans l'espace, lesquelles sont vraies ?",
       answers: [
         "Elle s'établit à moyenne et courte distance, et tend à se pérenniser (récurrence du positionnement)",
         "Elle manifeste un problème de comportement : un chien qui cherche une relation de dominance/subordination ou un chien anxieux",
@@ -980,7 +980,7 @@
     // ---------- La communication extrasensorielle ----------
     {
       id: "communication-072",
-      question: "Comment le cours qualifie-t-il la communication « extrasensorielle » ?",
+      question: "Comment qualifie-t-on la communication « extrasensorielle » ?",
       answers: [
         "Elle ne passe pas par les sens connus : si le chien perçoit une information, elle est bien passée par un canal",
         "On n'en est encore qu'à l'état de spéculations, malgré des expériences scientifiques troublantes",
@@ -992,7 +992,7 @@
     },
     {
       id: "communication-073",
-      question: "Quelles explications « rationnelles » des intuitions du chien le cours donne-t-il ?",
+      question: "Lesquelles de ces propositions correspondent à une explication « rationnelle » des intuitions du chien ?",
       answers: [
         "Le chien anticipe par la lecture des micromouvements et mimiques faciales",
         "Le chien anticipe par conditionnement (vêtements de travail, rituels quotidiens, passage du camion poubelles)",
@@ -1061,7 +1061,7 @@
     // ---------- Les troubles de la communication ----------
     {
       id: "communication-078",
-      question: "Que dit le cours des troubles de la communication ?",
+      question: "Parmi ces affirmations sur les troubles de la communication, lesquelles sont vraies ?",
       answers: [
         "Une mauvaise communication génère du stress : positif (excitation) ou négatif (anxiété/agressivité)",
         "En tant qu'émetteur : le chien n'arrive pas à transmettre une ou plusieurs informations",
@@ -1074,7 +1074,7 @@
     },
     {
       id: "communication-079",
-      question: "Que dit le cours des fondamentaux de la communication non acquis ?",
+      question: "Parmi ces affirmations sur les fondamentaux de la communication non acquis, lesquelles sont vraies ?",
       answers: [
         "Une incapacité totale à comprendre certains messages vient généralement d'un déficit lors de la phase d'imprégnation",
         "Des prédispositions génétiques peuvent aussi en être à l'origine",
@@ -1127,7 +1127,7 @@
     },
     {
       id: "communication-083",
-      question: "Que dit le modèle cybernétique de Norbert Wiener sur la perturbation d'un signal ?",
+      question: "Parmi ces affirmations sur la perturbation d'un signal dans le modèle cybernétique de Norbert Wiener, lesquelles sont vraies ?",
       answers: [
         "Émetteur → codage → canal → décodage → récepteur, avec un feed-back dans les deux sens",
         "Le bruit sémantique et le bruit interne interviennent au niveau du codage et du décodage",

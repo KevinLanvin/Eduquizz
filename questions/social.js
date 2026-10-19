@@ -93,7 +93,7 @@
     },
     {
       id: "social-007",
-      question: "Que dit le cours de la structure sociale des groupes de chiens féraux ?",
+      question: "Parmi ces affirmations sur la structure sociale des groupes de chiens féraux, lesquelles sont vraies ?",
       answers: [
         "Elle est très variable",
         "Un groupe peut être constitué d'un couple et de ses descendants",
@@ -106,7 +106,7 @@
     },
     {
       id: "social-008",
-      question: "Que dit le cours des soins parentaux et de la mortalité chez les chiens féraux ?",
+      question: "Parmi ces affirmations sur les soins parentaux et la mortalité chez les chiens féraux, lesquelles sont vraies ?",
       answers: [
         "Les soins parentaux sont apportés quasi exclusivement par la mère",
         "La mortalité juvénile est très importante (plus de 80 % la première année)",
@@ -184,7 +184,7 @@
     // ---------- L'organisation sociale ----------
     {
       id: "social-014",
-      question: "Que dit le cours de l'organisation sociale du chien ?",
+      question: "Parmi ces affirmations sur l'organisation sociale du chien, lesquelles sont vraies ?",
       answers: [
         "Le chien n'évolue pas dans une meute composée d'un couple Alpha et d'individus Beta, Gamma, Omega...",
         "Il développe des relations sociales, qui peuvent aboutir à de la dominance/subordination ou à de simples interactions affiliatives",
@@ -234,7 +234,7 @@
     },
     {
       id: "social-018",
-      question: "Que dit le cours des comportements de chiens face à leurs congénères ?",
+      question: "Parmi ces affirmations sur les comportements de chiens face à leurs congénères, lesquelles sont vraies ?",
       answers: [
         "Certains chiens cherchent immédiatement une relation de dominance/subordination",
         "D'autres adoptent plutôt des comportements affiliatifs",
@@ -286,7 +286,7 @@
     },
     {
       id: "social-022",
-      question: "Comment le cours définit-il une relation sociale ?",
+      question: "Comment définit-on une relation sociale ?",
       answers: [
         "Multiples interactions sociales + ajustements",
         "Une seule interaction sociale, suivie d'une séparation",
@@ -352,7 +352,7 @@
     },
     {
       id: "social-027",
-      question: "Pourquoi le cours dit-il que l'Homme et le chien ne forment pas une meute ?",
+      question: "Pourquoi l'Homme et le chien ne forment-ils pas une meute ?",
       answers: [
         "Nous n'appartenons pas à la même espèce",
         "Nous n'avons pas les mêmes codes ni la même communication",
@@ -429,7 +429,7 @@
     },
     {
       id: "social-033",
-      question: "Quelle posture le cours demande-t-il aux professionnels face à la relation Homme-Chien ?",
+      question: "Quelle posture les professionnels doivent-ils adopter face à la relation Homme-Chien ?",
       answers: [
         "Une posture pragmatique, éthique et fonctionnelle, plutôt qu'idéologique",
         "L'humain prend les décisions et les assume, en tenant compte de ce que l'animal exprime et perçoit",

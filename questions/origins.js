@@ -239,7 +239,7 @@
     },
     {
       id: "origins-025",
-      question: "Que dit-on de la queue du loup ?",
+      question: "Parmi ces affirmations sur la queue du loup, laquelle est vraie ?",
       answers: [
         "Elle est longue et descend sous l'articulation du tarse",
         "Elle est courte, jamais en dessous de l'articulation du tarse",
@@ -303,7 +303,7 @@
     },
     {
       id: "origins-029",
-      question: "Que dit-on des estimations de l'ancienneté de la domestication ?",
+      question: "Parmi ces affirmations sur les estimations de l'ancienneté de la domestication, lesquelles sont vraies ?",
       answers: [
         "Les ossements les plus anciens suggèrent des premières traces vers −30 000 ans",
         "Les données génétiques sur les lignées actuelles la placent vers −15 000 à −20 000 ans",
@@ -559,7 +559,7 @@
     // ---------- Chronologie ----------
     {
       id: "origins-045",
-      question: "Selon le cours, quelles sont les races primitives apparues au milieu de l'Antiquité ?",
+      question: "Quelles sont les races primitives apparues au milieu de l'Antiquité ?",
       answers: [
         "Les Lupoïdes",
         "Les Molossoïdes",
@@ -640,7 +640,7 @@
     },
     {
       id: "origins-059",
-      question: "Que dit-on du chien par rapport aux autres animaux domestiqués ?",
+      question: "Parmi ces affirmations sur le chien par rapport aux autres animaux domestiqués, laquelle est vraie ?",
       answers: [
         "C'est l'animal le plus façonné par l'Homme, domestiqué depuis plus de 30 000 ans",
         "C'est l'animal domestiqué le plus récent, apparu après les animaux d'élevage",
@@ -652,7 +652,7 @@
     },
     {
       id: "origins-055",
-      question: "Que dit le cours de l'héritage de prédateur du chien ?",
+      question: "Parmi ces affirmations sur l'héritage de prédateur du chien, laquelle est vraie ?",
       answers: [
         "La domestication l'a totalement effacé : le chien n'a plus aucune prédisposition de prédateur",
         "Il ne concerne que les chiens de chasse, sélectionnés pour leur instinct de poursuite",
@@ -664,7 +664,7 @@
     },
     {
       id: "origins-058",
-      question: "Que dit le cours de la relation actuelle entre l'Homme et le chien (« partageant notre foyer ») ?",
+      question: "Parmi ces affirmations sur la relation actuelle entre l'Homme et le chien (« partageant notre foyer »), lesquelles sont vraies ?",
       answers: [
         "C'est une évolution très récente de la relation Homme-chien",
         "Le chien est l'animal à la relation la plus privilégiée avec l'Homme",
@@ -677,7 +677,7 @@
     },
     {
       id: "origins-054",
-      question: "Que dit le cours de la diversité des chiens ?",
+      question: "Parmi ces affirmations sur la diversité des chiens, lesquelles sont vraies ?",
       answers: [
         "Aucune autre espèce ne présente une telle diversité de types morphologiques et comportementaux",
         "Il existe plus de 350 races au LOF",

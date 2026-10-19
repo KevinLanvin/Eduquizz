@@ -96,7 +96,7 @@
     // ---------- Le clicker training ----------
     {
       id: "positive-007",
-      question: "Que dit le cours du clicker training ?",
+      question: "Parmi ces affirmations sur le clicker training, lesquelles sont vraies ?",
       answers: [
         "Il a été développé par Karen Pryor aux États-Unis, avec les mammifères marins",
         "Il est finalement utilisé avec tous les animaux, y compris le chien",
@@ -135,7 +135,7 @@
     },
     {
       id: "positive-010",
-      question: "Que dit le cours du renforçateur et du timing ?",
+      question: "Parmi ces affirmations sur le renforçateur et le timing, lesquelles sont vraies ?",
       answers: [
         "Le renforçateur doit être suffisamment puissant pour permettre l'augmentation en fréquence d'un comportement",
         "Plus l'exercice est dur, plus la valeur du renforçateur doit être importante",
@@ -176,7 +176,7 @@
     // ---------- Do as I do ----------
     {
       id: "positive-013",
-      question: "Que dit le cours de la méthode « Do as I do » ?",
+      question: "Parmi ces affirmations sur la méthode « Do as I do », lesquelles sont vraies ?",
       answers: [
         "« Do as I do » signifie « fais ce que je fais »",
         "C'est une méthode d'apprentissage social par observation",
@@ -306,7 +306,7 @@
     // ---------- Dérives ----------
     {
       id: "positive-023",
-      question: "Que dit le cours des dérives de l'éducation positive « à l'extrême » ?",
+      question: "Parmi ces affirmations sur les dérives de l'éducation positive « à l'extrême », lesquelles sont vraies ?",
       answers: [
         "Certains bannissent le « non » de leur vocabulaire",
         "Les interdits et les règles sont le fondement de toute forme de vie en société, humaine ou animale",
@@ -319,7 +319,7 @@
     },
     {
       id: "positive-024",
-      question: "Quelles réponses le cours donne-t-il aux arguments contre les interdits ?",
+      question: "Quelles réponses peut-on apporter aux arguments contre les interdits ?",
       answers: [
         "Les interdits permettent au contraire au chien de gérer sa frustration",
         "Marqués sans violence, les interdits inhibent seulement les comportements conditionnés, sans généraliser à tout le répertoire",
@@ -332,7 +332,7 @@
     },
     {
       id: "positive-025",
-      question: "Que dit le cours du renforcement de chaînes ?",
+      question: "Parmi ces affirmations sur le renforcement de chaînes, lesquelles sont vraies ?",
       answers: [
         "Les extrêmes conseillent de détourner l'attention du chien ou de lui « proposer autre chose » au moment du comportement indésirable",
         "Récompenser l'arrêt d'un mauvais comportement provoque un renforcement positif de ce comportement (conditionnement opérant)",
@@ -345,7 +345,7 @@
     },
     {
       id: "positive-026",
-      question: "Quelles sont les conséquences des trois exemples du cours (aboiement, canapé, mordillement) ?",
+      question: "Dans les trois situations suivantes (aboiement, canapé, mordillement), quelles sont les conséquences de la récompense ?",
       answers: [
         "Le chien qui aboie, à qui on demande « silence » avant de le récompenser, aboie de plus en plus souvent dans l'attente de l'ordre",
         "Le chien à qui on demande de « descendre » du canapé et que l'on récompense est d'autant plus enthousiaste à l'idée de monter pour le rejoindre",

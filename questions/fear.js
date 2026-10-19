@@ -55,7 +55,7 @@
     },
     {
       id: "fear-004",
-      question: "Que dit le modèle de la réponse de peur ?",
+      question: "Parmi ces affirmations sur le modèle de la réponse de peur, lesquelles sont vraies ?",
       answers: [
         "La réponse de peur est une réponse adaptative qui permet la survie : elle est normale",
         "La cognition (attention, mémoire, contexte) intervient avec l'émotion dans la réponse",
@@ -84,7 +84,7 @@
     // ---------- Facteurs intrinsèques ----------
     {
       id: "fear-006",
-      question: "Que dit le cours de la génétique de la peur ?",
+      question: "Parmi ces affirmations sur la génétique de la peur, lesquelles sont vraies ?",
       answers: [
         "Les chiens de berger présentent statistiquement plus de réactions de peur que la moyenne de l'espèce",
         "Il n'y a pas un seul gène codant la peur, mais plusieurs gènes impliqués",
@@ -110,7 +110,7 @@
     },
     {
       id: "fear-008",
-      question: "Que dit le cours du développement et de la peur ?",
+      question: "Parmi ces affirmations sur le développement et la peur, lesquelles sont vraies ?",
       answers: [
         "Deux facteurs d'influence : les mauvaises expériences et l'absence d'expériences",
         "La période de développement est particulièrement sensible de 3 semaines à 3 mois",
@@ -149,7 +149,7 @@
     },
     {
       id: "fear-011",
-      question: "Que dit le cours des hormones sexuelles et de la peur ?",
+      question: "Parmi ces affirmations sur les hormones sexuelles et la peur, lesquelles sont vraies ?",
       answers: [
         "Les hormones sexuelles peuvent influencer les comportements de peur",
         "Les chiens stérilisés (absence de testostérone) ont davantage de comportements de peur",
@@ -162,7 +162,7 @@
     },
     {
       id: "fear-012",
-      question: "Que dit le cours de l'âge et des phobies ?",
+      question: "Parmi ces affirmations sur l'âge et les phobies, lesquelles sont vraies ?",
       answers: [
         "On constate généralement une intensification des phobies avec l'âge",
         "Des phobies apparaissent de façon récurrente chez les chiens âgés, ce qui doit faire penser aux soucis de dégénérescence",
@@ -227,7 +227,7 @@
     },
     {
       id: "fear-017",
-      question: "Que dit le modèle de la réponse phobique ?",
+      question: "Parmi ces affirmations sur le modèle de la réponse phobique, lesquelles sont vraies ?",
       answers: [
         "La cognition (attention, mémoire, contexte) est inaccessible et inhibée par l'activation massive des circuits émotionnels de survie",
         "La réponse n'est plus une réponse adaptative qui permet la survie : elle est anormale",
@@ -278,7 +278,7 @@
     },
     {
       id: "fear-021",
-      question: "Quelle proportion des chiens aux États-Unis est concernée par la phobie des orages, d'après le cours ?",
+      question: "Quelle proportion des chiens aux États-Unis est concernée par la phobie des orages ?",
       answers: [
         "Plus de la moitié des chiens (52 %)",
         "Environ un chien sur vingt (5 %)",
@@ -341,7 +341,7 @@
     },
     {
       id: "fear-026",
-      question: "Que disent les notes du cours sur l'habituation et l'immersion ?",
+      question: "Parmi ces affirmations sur l'habituation et l'immersion, lesquelles sont vraies ?",
       answers: [
         "L'habituation se fait en fréquence et l'immersion en durée",
         "En immersion, le stresseur est objectif : son acceptation ne le fait pas disparaître",
@@ -354,7 +354,7 @@
     },
     {
       id: "fear-027",
-      question: "Quel exemple d'immersion donne le cours ?",
+      question: "Quel est un exemple d'immersion ?",
       answers: [
         "Un chiot séparé de sa famille lors de l'adoption",
         "Un chien qui entend un orage de temps en temps",
@@ -393,7 +393,7 @@
     },
     {
       id: "fear-030",
-      question: "Comment le cours décrit-il les degrés d'anxiété ?",
+      question: "Comment décrit-on les degrés d'anxiété ?",
       answers: [
         "Un degré bas ou normal : un état normal qui permet de répondre aux situations de stress",
         "Un état plus élevé : des réponses inadaptées et une perte de contrôle",
@@ -405,7 +405,7 @@
     },
     {
       id: "fear-031",
-      question: "Que dit le modèle de la réponse anxieuse ?",
+      question: "Parmi ces affirmations sur le modèle de la réponse anxieuse, lesquelles sont vraies ?",
       answers: [
         "Il part d'une attente redoutée",
         "Si la cognition est excessive, elle perturbe l'attention et la concentration",

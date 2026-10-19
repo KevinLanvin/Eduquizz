@@ -46,7 +46,7 @@
     },
     {
       id: "cognition-003",
-      question: "Que dit le canon de Morgan ?",
+      question: "Parmi ces affirmations sur le canon de Morgan, laquelle est vraie ?",
       answers: [
         "Il ne faut pas interpréter une action animale comme relevant de facultés de haut niveau si elle peut s'expliquer par des facultés de niveau inférieur",
         "Il faut toujours privilégier l'explication par des facultés de haut niveau, car les animaux sont plus intelligents qu'on ne le croit",
@@ -404,7 +404,7 @@
     },
     {
       id: "cognition-028",
-      question: "Que dit le cours de l'espace sémantique Homme-Chien (Berns) ?",
+      question: "Parmi ces affirmations sur l'espace sémantique Homme-Chien (Berns), lesquelles sont vraies ?",
       answers: [
         "L'espace sémantique humain comporte à priori beaucoup plus de concepts que celui du chien",
         "Le chien a sans doute un espace sémantique sur lequel nous serions incapables de mettre un mot",
@@ -419,7 +419,7 @@
     // ---------- Hypothèses et limites ----------
     {
       id: "cognition-029",
-      question: "Que dit le cours du regret ?",
+      question: "Parmi ces affirmations sur le regret, lesquelles sont vraies ?",
       answers: [
         "C'est une émotion extrêmement complexe, qui dépend de la reconnaissance de réalités alternatives et donc de l'imaginaire",
         "On estime généralement que seul l'Humain en est capable",
@@ -461,7 +461,7 @@
     },
     {
       id: "cognition-032",
-      question: "Que le chien est-il capable de faire, selon le cours ?",
+      question: "Qu'est-ce que le chien est capable de faire ?",
       answers: [
         "Associer une action à une conséquence, positive ou négative",
         "Anticiper des réactions humaines",
@@ -512,7 +512,7 @@
     },
     {
       id: "cognition-036",
-      question: "Quelles sont des conclusions du cours sur les capacités cognitives du chien ?",
+      question: "Quelles conclusions peut-on tirer sur les capacités cognitives du chien ?",
       answers: [
         "Nos connaissances sur le cerveau du chien et ses capacités cognitives restent extrêmement limitées",
         "Nous connaissons quelques-unes de ses limites et quelques-unes de ses capacités",

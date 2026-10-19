@@ -30,7 +30,7 @@
     },
     {
       id: "traditional-002",
-      question: "Que dit la théorie de l'éducation traditionnelle ?",
+      question: "Parmi ces affirmations sur la théorie de l'éducation traditionnelle, lesquelles sont vraies ?",
       answers: [
         "Elle repose sur l'observation de loups en captivité, supposés former des meutes hiérarchisées de façon pyramidale",
         "Nous devrions reproduire le fonctionnement de ces meutes",
@@ -55,7 +55,7 @@
     },
     {
       id: "traditional-004",
-      question: "Que dit la théorie traditionnelle de la hiérarchie et des problèmes de comportement ?",
+      question: "Parmi ces affirmations sur la théorie traditionnelle de la hiérarchie et les problèmes de comportement, lesquelles sont vraies ?",
       answers: [
         "La hiérarchisation repose sur la maîtrise de « privilèges » et sur l'exercice de la dominance (soumission du chien) dans de nombreuses situations du quotidien",
         "Les problèmes éducatifs et comportementaux sont considérés comme une défiance de la domination du maître",
@@ -68,7 +68,7 @@
     },
     {
       id: "traditional-005",
-      question: "Que dit la théorie traditionnelle des besoins du chien et de son maître ?",
+      question: "Parmi ces affirmations sur la théorie traditionnelle des besoins du chien et de son maître, lesquelles sont vraies ?",
       answers: [
         "Le seul besoin de l'animal est généralement de vivre en « meute »",
         "On évoque rarement d'autres formes de besoins chez le chien",
@@ -105,7 +105,7 @@
     },
     {
       id: "traditional-008",
-      question: "Que dit le cours du renforcement positif en éducation traditionnelle ?",
+      question: "Parmi ces affirmations sur le renforcement positif en éducation traditionnelle, lesquelles sont vraies ?",
       answers: [
         "Il y a un refus quasi systématique de la friandise",
         "La récompense en tant que telle n'est pas refusée",
@@ -120,7 +120,7 @@
     // ---------- Les outils ----------
     {
       id: "traditional-009",
-      question: "Quels sont des outils de l'éducation traditionnelle cités dans le cours ?",
+      question: "Lesquelles de ces propositions correspondent à un outil de l'éducation traditionnelle ?",
       answers: [
         "Les colliers semi-étrangleurs",
         "Les colliers étrangleurs",
@@ -148,7 +148,7 @@
     },
     {
       id: "traditional-011",
-      question: "Quels derniers outils sont cités dans le cours ?",
+      question: "Lesquelles de ces propositions correspondent également à un outil de l'éducation traditionnelle ?",
       answers: [
         "Les fouets",
         "La planche à clous",
@@ -175,7 +175,7 @@
     // ---------- Pratique ----------
     {
       id: "traditional-013",
-      question: "Que dit le cours de la pratique de l'éducation traditionnelle ?",
+      question: "Parmi ces affirmations sur la pratique de l'éducation traditionnelle, lesquelles sont vraies ?",
       answers: [
         "Pratiquée avec respect et sans violence, sans renforcement à base de nourriture, elle peut faire naître de belles complicités",
         "Certains conseils sont utiles et efficaces (cadre éducatif structurant, règles bien définies), mais fondés sur une argumentation fausse (famille-meute)",

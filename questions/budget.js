@@ -53,7 +53,7 @@
     },
     {
       id: "budget-004",
-      question: "Que dit le cours sur l'influence de la lignée et de la race sur le comportement ?",
+      question: "Parmi ces affirmations sur l'influence de la lignée et la race sur le comportement, lesquelles sont vraies ?",
       answers: [
         "Plusieurs études montrent des différences plus marquées entre les lignées d'une même race qu'entre les races elles-mêmes",
         "Les différences entre deux races (Border Collie, Labrador Retriever) sont plus petites que celles entre leurs lignées de beauté et de travail",
@@ -68,7 +68,7 @@
     // ---------- Bien-être, modèle de Fraser ----------
     {
       id: "budget-005",
-      question: "Comment le cours définit-il le bien-être ?",
+      question: "Comment définit-on le bien-être ?",
       answers: [
         "Une relation animal / environnement : une adaptation à moindre coût donne un bien-être élevé, à un coût élevé un bien-être faible, et impossible un mal-être",
         "L'absence totale de contraintes dans l'environnement de l'animal, qui n'a alors plus rien à s'adapter",
@@ -250,7 +250,7 @@
     },
     {
       id: "budget-018",
-      question: "Que dit le cours des besoins d'activité du chien ?",
+      question: "Parmi ces affirmations sur les besoins d'activité du chien, lesquelles sont vraies ?",
       answers: [
         "Un chien a en moyenne besoin d'environ 5 heures d'activités par jour",
         "C'est un paramètre variable en fonction du tempérament de l'animal",
@@ -363,7 +363,7 @@
     // ---------- Conclusion ----------
     {
       id: "budget-023",
-      question: "Quelles sont des conclusions du cours pour l'éducateur ?",
+      question: "Quelles conclusions peut-on tirer du budget-temps pour l'éducateur ?",
       answers: [
         "L'analyse de la relation besoins/environnement est primordiale, à titre curatif comme préventif",
         "Il faut aborder cette thématique avec pédagogie, pour que les clients prennent conscience des besoins de leur animal",

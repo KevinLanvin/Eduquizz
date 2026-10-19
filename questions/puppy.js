@@ -235,7 +235,7 @@
     },
     {
       id: "puppy-019",
-      question: "« Un chien n'a qu'un seul maître » : que dit le cours ?",
+      question: "Parmi ces affirmations sur l'affirmation « Un chien n'a qu'un seul maître », laquelle est vraie ?",
       answers: [
         "C'est une légende : le chien est social et peut interagir avec de multiples individus",
         "C'est vrai pour les chiens de travail mais faux pour les chiens de compagnie",
@@ -1195,7 +1195,7 @@
     },
     {
       id: "puppy-098",
-      question: "Que dit le cours d'une éducation 100 % positive, sans interdits ?",
+      question: "Parmi ces affirmations sur une éducation 100 % positive, sans interdits, laquelle est vraie ?",
       answers: [
         "C'est une utopie qui accroît frustrations et difficultés de compréhension",
         "C'est l'idéal à atteindre pour tous les chiens",
@@ -1905,7 +1905,7 @@
     },
     {
       id: "puppy-154",
-      question: "Quels mécanismes de l'éducation naturelle sont décrits dans le cours ?",
+      question: "Lesquelles de ces propositions correspondent à un mécanisme de l'éducation naturelle ?",
       answers: [
         "L'autorégulation",
         "L'habituation",

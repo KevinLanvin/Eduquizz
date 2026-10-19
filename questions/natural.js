@@ -104,7 +104,7 @@
     },
     {
       id: "natural-007",
-      question: "Que dit le cours de l'habituation en éducation naturelle ?",
+      question: "Parmi ces affirmations sur l'habituation en éducation naturelle, lesquelles sont vraies ?",
       answers: [
         "C'est la disparition de la réactivité non apprise à un stimulus, après des expositions répétées, sans association à une stimulation favorable ou défavorable",
         "À force de confrontations, le chien banalise le stimulus et ne réagit plus",
@@ -143,7 +143,7 @@
     },
     {
       id: "natural-010",
-      question: "Que dit le cours de la facilitation sociale en éducation naturelle ?",
+      question: "Parmi ces affirmations sur la facilitation sociale en éducation naturelle, lesquelles sont vraies ?",
       answers: [
         "Elle est aussi appelée apprentissage par observation ou mimétisme",
         "Elle permet au chien d'observer ses congénères et des individus d'une autre espèce (comme l'Homme)",
@@ -187,7 +187,7 @@
     },
     {
       id: "natural-013",
-      question: "Que dit le cours des précautions de la méthode naturelle ?",
+      question: "Parmi ces affirmations sur les précautions de la méthode naturelle, lesquelles sont vraies ?",
       answers: [
         "Elle est plus facile à mettre en place avec un chiot (imprégnation)",
         "On peut travailler en liberté contrôlée, avec une longe si nécessaire",
@@ -229,7 +229,7 @@
     },
     {
       id: "natural-016",
-      question: "Que dit le cours de la saturation chez le chiot ?",
+      question: "Parmi ces affirmations sur la saturation chez le chiot, lesquelles sont vraies ?",
       answers: [
         "On est très vigilant sur son utilisation",
         "On l'évite pour traiter les appréhensions du chiot",
@@ -294,7 +294,7 @@
     // ---------- Dérives, avantages et inconvénients ----------
     {
       id: "natural-021",
-      question: "Quelles dérives de l'éducation naturelle le cours cite-t-il ?",
+      question: "Lesquelles de ces propositions correspondent à une dérive de l'éducation naturelle ?",
       answers: [
         "La non-intervention absolue des maîtres dans les écoles de chiots : des chiots harcelés et d'autres harceleurs, origine de comportements phobiques et d'agressivité intraspécifique",
         "Considérer l'éducation naturelle comme la seule forme d'éducation respectueuse du bien-être animal",
@@ -319,7 +319,7 @@
     },
     {
       id: "natural-023",
-      question: "Que dit le cours d'une utilisation extrême et exclusive d'une méthode éducative ?",
+      question: "Parmi ces affirmations sur une utilisation extrême et exclusive d'une méthode éducative, laquelle est vraie ?",
       answers: [
         "Elle ne peut en aucun cas amener à un résultat stable et équilibré",
         "Elle est la seule à garantir un résultat stable et équilibré",

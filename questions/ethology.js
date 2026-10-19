@@ -308,7 +308,7 @@
     },
     {
       id: "ethology-034",
-      question: "Quels sont des exemples de fonctions des comportements cités dans le cours ?",
+      question: "Lesquelles de ces propositions correspondent à une fonction des comportements ?",
       answers: [
         "S'alimenter",
         "Se reproduire",
@@ -349,7 +349,7 @@
     // ---------- Béhaviorisme : conditionnements ----------
     {
       id: "ethology-038",
-      question: "Quels sont les deux types de conditionnement présentés dans le cours ?",
+      question: "Quels sont les deux types de conditionnement ?",
       answers: [
         "Le conditionnement répondant",
         "Le conditionnement opérant",
@@ -553,7 +553,7 @@
     // ---------- L'éthologie moderne ----------
     {
       id: "ethology-052",
-      question: "Que dit le cours de l'éthologie moderne ?",
+      question: "Parmi ces affirmations sur l'éthologie moderne, lesquelles sont vraies ?",
       answers: [
         "Elle n'est pas une querelle entre l'inné et l'acquis",
         "Le comportement est issu de la rencontre de l'inné et de l'acquis",
@@ -594,7 +594,7 @@
     // ---------- Définir et expliquer un comportement ----------
     {
       id: "ethology-055",
-      question: "Quelles définitions du comportement sont données dans le cours ?",
+      question: "Lesquelles de ces propositions correspondent à une définition du comportement ?",
       answers: [
         "« Ce qu'un organisme fait »",
         "L'ensemble des processus par lesquels un animal ressent le monde extérieur et l'état interne de son corps, et répond aux changements perçus",
@@ -607,7 +607,7 @@
     },
     {
       id: "ethology-056",
-      question: "Selon le cours, qu'est-ce qu'un comportement ?",
+      question: "Qu'est-ce qu'un comportement ?",
       answers: [
         "Un élément observable et une interaction animal-milieu",
         "Un état interne de l'animal, non observable de l'extérieur",
@@ -647,7 +647,7 @@
     },
     {
       id: "ethology-059",
-      question: "Que dit le cours sur le milieu ?",
+      question: "Parmi ces affirmations sur le milieu, lesquelles sont vraies ?",
       answers: [
         "C'est l'espace d'expression des comportements",
         "Un comportement est indissociable du milieu dans lequel il est exprimé",
@@ -736,7 +736,7 @@
     },
     {
       id: "ethology-066",
-      question: "Que dit le cours de la domestication du chien : modification du génotype ou du phénotype ?",
+      question: "Parmi ces affirmations sur la domestication du chien : modification du génotype ou du phénotype, lesquelles sont vraies ?",
       answers: [
         "Elle correspond à une sélection sur des traits comportementaux apparents (tolérance, docilité)",
         "Elle a progressivement généré des modifications génétiques au fil des générations",
@@ -803,7 +803,7 @@
     // ---------- Adaptation au milieu et bien-être ----------
     {
       id: "ethology-073",
-      question: "Que dit le cours de l'adaptation du chien à son milieu ?",
+      question: "Parmi ces affirmations sur l'adaptation du chien à son milieu, lesquelles sont vraies ?",
       answers: [
         "L'animal s'adapte au milieu dans lequel il vit",
         "Le milieu n'inhibe pas les besoins de l'animal",
@@ -817,7 +817,7 @@
     },
     {
       id: "ethology-074",
-      question: "Quelles sont des conclusions du cours d'éthologie ?",
+      question: "Quelles conclusions peut-on tirer sur l'éthologie ?",
       answers: [
         "L'analyse des comportements nécessite une parfaite connaissance de l'espèce étudiée",
         "Le comportement d'un individu est le résultat d'interactions complexes entre son génotype et son environnement",

@@ -80,7 +80,7 @@
     },
     {
       id: "genetics-009",
-      question: "Que dit le cours de l'épigénétique ?",
+      question: "Parmi ces affirmations sur l'épigénétique, laquelle est vraie ?",
       answers: [
         "C'est le transfert d'une partie de notre vécu via le génome, avec un effet très faible",
         "C'est la modification du génotype d'une population au fil des générations par la sélection",
@@ -248,7 +248,7 @@
     // ---------- Créer des races ----------
     {
       id: "genetics-022",
-      question: "Quelles sont les façons de créer des races présentées dans le cours ?",
+      question: "Lesquelles de ces propositions correspondent à une façon de créer des races ?",
       answers: [
         "Partir d'une population existante stable, avec un standard et un livre des origines",
         "Le métissage",
@@ -276,7 +276,7 @@
     },
     {
       id: "genetics-024",
-      question: "Que dit le cours du Basenji ?",
+      question: "Parmi ces affirmations sur le Basenji, lesquelles sont vraies ?",
       answers: [
         "Il est aussi appelé Terrier du Congo",
         "Il est originaire d'Afrique centrale",
@@ -289,7 +289,7 @@
     },
     {
       id: "genetics-025",
-      question: "Quelle autre voie est notée dans le cours, avec l'exemple du Berger blanc suisse ?",
+      question: "Quelle autre voie existe, avec l'exemple du Berger blanc suisse ?",
       answers: [
         "La sélection d'une tare, uniquement",
         "La sélection d'un standard à partir d'une population stable",
@@ -301,7 +301,7 @@
     },
     {
       id: "genetics-026",
-      question: "Que dit le cours des chiens errants de l'île de la Réunion ?",
+      question: "Parmi ces affirmations sur les chiens errants de l'île de la Réunion, lesquelles sont vraies ?",
       answers: [
         "L'isolement géographique est propice à une certaine stabilité comportementale et morphologique",
         "De nombreuses hybridations avec des chiens de races importés perturbent cette stabilité",
@@ -326,7 +326,7 @@
     },
     {
       id: "genetics-028",
-      question: "Que dit le cours du Welsh Corgi ?",
+      question: "Parmi ces affirmations sur le Welsh Corgi, lesquelles sont vraies ?",
       answers: [
         "Il existe deux races : le Welsh Corgi Cardigan et le Welsh Corgi Pembroke",
         "Le Pembroke est issu d'une mutation génétique (du gène T)",
@@ -352,7 +352,7 @@
     // ---------- Classification ----------
     {
       id: "genetics-030",
-      question: "Quelles associations sont exactes à propos des chiens de montagne et des lévriers (notes du cours) ?",
+      question: "Quelles associations sont exactes à propos des chiens de montagne et des lévriers ?",
       answers: [
         "Les chiens de montagne sont plutôt indépendants, intolérants et peu obéissants",
         "Les lévriers ont une sociabilité correcte, peu d'agressivité et un instinct de poursuite",
@@ -594,7 +594,7 @@
     // ---------- Héritabilité comportementale ----------
     {
       id: "genetics-048",
-      question: "Que dit le cours de la génétique et du comportement du chien ?",
+      question: "Parmi ces affirmations sur la génétique et le comportement du chien, lesquelles sont vraies ?",
       answers: [
         "La génétique est une composante majeure du comportement canin",
         "La sélection des races puis des lignées s'est faite sur des critères d'aptitudes bien avant que l'esthétique prenne le dessus",
@@ -619,7 +619,7 @@
     },
     {
       id: "genetics-050",
-      question: "Que conclut le cours à propos du comportement d'arrêt ?",
+      question: "Que conclut-on à propos du comportement d'arrêt ?",
       answers: [
         "Certaines variations génétiques sont statistiquement associées à une plus forte prédisposition à l'arrêt chez les chiens sélectionnés pour ce comportement",
         "L'entraînement et l'environnement contribuent aussi au comportement d'arrêt, avec les facteurs génétiques",
@@ -631,7 +631,7 @@
     },
     {
       id: "genetics-051",
-      question: "Que dit le cours de la mutation du gène POMC chez le labrador ?",
+      question: "Parmi ces affirmations sur la mutation du gène POMC chez le labrador, lesquelles sont vraies ?",
       answers: [
         "C'est une délétion de 14 paires de bases",
         "Elle entraîne une tendance marquée à la prise de poids et une motivation alimentaire accrue",
@@ -718,7 +718,7 @@
     },
     {
       id: "genetics-058",
-      question: "Que dit l'héritabilité d'un comportement comme « attendre » ou « agresser » ?",
+      question: "Parmi ces affirmations sur l'héritabilité d'un comportement comme « attendre » ou « agresser », laquelle est vraie ?",
       answers: [
         "Elle dit pourquoi, chez des chiens développés dans les mêmes conditions et placés dans la même situation, certains attendent (ou agressent) plus facilement que d'autres",
         "Elle dit si un chien est capable d'apprendre à attendre (ou à agresser) après une éducation adaptée",
@@ -792,7 +792,7 @@
     },
     {
       id: "genetics-066",
-      question: "Comment le cours résume-t-il la place de la génétique, de l'éducation et du bien-être ?",
+      question: "Comment résume-t-on la place de la génétique, de l'éducation et du bien-être ?",
       answers: [
         "La génétique fixe un cadre de possibilités, l'éducation travaille à l'intérieur de ce cadre, et le bien-être impose parfois d'en reconnaître les limites",
         "L'éducation fixe un cadre de possibilités, la génétique travaille à l'intérieur de ce cadre, et le bien-être passe après toute autre considération",
@@ -831,7 +831,7 @@
     },
     {
       id: "genetics-069",
-      question: "Pour un éducateur canin, que recommande la conclusion du cours ?",
+      question: "Pour un éducateur canin, que recommande-t-on en conclusion ?",
       answers: [
         "Connaître la race du chien (origines, aptitudes, prédispositions)",
         "Se renseigner sur la lignée et les parents (pédigrée)",
@@ -845,7 +845,7 @@
     },
     {
       id: "genetics-071",
-      question: "Quelle lignée la conclusion du cours dit-elle encore attendre, après les lignées d'obéissance, de chasse, de ring, de sport et de beauté ?",
+      question: "Quelle lignée reste encore à attendre, après les lignées d'obéissance, de chasse, de ring, de sport et de beauté ?",
       answers: [
         "La lignée de compagnie",
         "La lignée de berger",

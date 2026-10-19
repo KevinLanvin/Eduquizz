@@ -74,7 +74,7 @@
     // ---------- L'éducation restrictive (coercitive) ----------
     {
       id: "balance-005",
-      question: "Que dit le cours de l'éducation restrictive (coercitive) ?",
+      question: "Parmi ces affirmations sur l'éducation restrictive (coercitive), lesquelles sont vraies ?",
       answers: [
         "Elle est basée sur la réprimande des mauvais comportements par conditionnement simple ou opérant",
         "Son objectif est de faire baisser en fréquence les mauvais comportements, que l'on souhaite voir disparaître",
@@ -197,7 +197,7 @@
     // ---------- L'éducation naturelle : rappels ----------
     {
       id: "balance-015",
-      question: "Comment le cours résume-t-il l'éducation naturelle ?",
+      question: "Comment résume-t-on l'éducation naturelle ?",
       answers: [
         "Des apprentissages autonomes, avec une non-intervention du maître",
         "Des apprentissages guidés par le maître et récompensés à chaque étape",

@@ -30,7 +30,7 @@
     },
     {
       id: "temperament-002",
-      question: "Quel terme le cours privilégie-t-il pour désigner la variabilité comportementale individuelle ?",
+      question: "Quel terme privilégie-t-on pour désigner la variabilité comportementale individuelle ?",
       answers: [
         "Le tempérament",
         "La personnalité",
@@ -120,7 +120,7 @@
     // ---------- Le tempérament chez le chien ----------
     {
       id: "temperament-009",
-      question: "Que dit le cours du lien entre race et tempérament chez le chien ?",
+      question: "Parmi ces affirmations sur le lien entre race et tempérament chez le chien, lesquelles sont vraies ?",
       answers: [
         "Contrairement à la plupart des espèces, la sélection est artificielle chez le chien",
         "Les traits comportementaux sont présents chez toutes les races, mais diffèrent en fréquence et en intensité",
@@ -184,7 +184,7 @@
     },
     {
       id: "temperament-014",
-      question: "Que dit le cours sur le tempérament et l'agressivité (syndromes comportementaux) ?",
+      question: "Parmi ces affirmations sur le tempérament et l'agressivité (syndromes comportementaux), lesquelles sont vraies ?",
       answers: [
         "Certains traits de tempérament tendent à s'organiser en paquets cohérents, les syndromes comportementaux",
         "Une forte audace ou prise de risque peut être associée à certains types d'agressivité, dans des contextes compétitifs ou à risque",
@@ -211,7 +211,7 @@
     },
     {
       id: "temperament-016",
-      question: "Parmi les 11 traits du C-BARQ listés dans le cours, lesquels figurent dans la liste ?",
+      question: "Parmi ces propositions, lesquelles figurent parmi les 11 traits du C-BARQ ?",
       answers: [
         "L'agressivité dirigée contre les inconnus",
         "L'agressivité dirigée contre le propriétaire",
@@ -225,7 +225,7 @@
     },
     {
       id: "temperament-035",
-      question: "Parmi les traits de peur et d'agressivité du C-BARQ, lesquels figurent dans la liste du cours ?",
+      question: "Parmi les traits de peur et d'agressivité du C-BARQ, lesquels figurent dans la liste ?",
       answers: [
         "La peur des inconnus",
         "La peur non sociale",
@@ -293,7 +293,7 @@
     },
     {
       id: "temperament-020",
-      question: "Comment le cours qualifie-t-il le C-BARQ en conclusion ?",
+      question: "Comment qualifie-t-on le C-BARQ en conclusion ?",
       answers: [
         "Un excellent outil de recherche et de repérage, mais pas un outil de diagnostic d'un cas particulier",
         "Un excellent outil de diagnostic, utilisable seul pour décider du devenir d'un chien",
@@ -376,7 +376,7 @@
     // ---------- Les traits à évaluer et le DMA ----------
     {
       id: "temperament-026",
-      question: "Parmi les 6 principaux traits de tempérament à évaluer chez un chien de compagnie, lesquels figurent dans le cours ?",
+      question: "Parmi les 6 principaux traits de tempérament à évaluer chez un chien de compagnie, lesquels sont retenus ?",
       answers: [
         "La réactivité",
         "La peur",
@@ -489,7 +489,7 @@
     // ---------- Conclusion ----------
     {
       id: "temperament-031",
-      question: "Quelles sont des conclusions du cours sur le tempérament ?",
+      question: "Quelles conclusions peut-on tirer sur le tempérament ?",
       answers: [
         "Les chiens présentent une importante variabilité comportementale individuelle : l'expression de leur tempérament (ou personnalité)",
         "Cette variabilité est notamment conditionnée par des facteurs génétiques, donc par la race, mais ce n'est pas une vérité absolue",
