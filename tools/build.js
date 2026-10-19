@@ -123,6 +123,9 @@ fs.writeFileSync(path.join(dist, jsName), jsMin);
 fs.writeFileSync(path.join(dist, cssName), cssMin);
 for (const font of keptFonts) fs.copyFileSync(path.join(root, font), path.join(dist, font));
 
+// robots.txt: the site must not be indexed
+fs.copyFileSync(path.join(root, 'robots.txt'), path.join(dist, 'robots.txt'));
+
 // index.html: one stylesheet, one script, no comments, no extra spaces
 const scriptsBlock = /(?:\s*<script src="[^"]+"><\/script>)+/;
 let htmlOut = html
