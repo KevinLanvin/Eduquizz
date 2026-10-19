@@ -4,6 +4,7 @@
 // Sources: the course summary and the Lexique only. No very precise dates.
 // Notions already asked elsewhere are NOT repeated here: the three methods and their mechanisms
 // (positive, natural, balance themes), the time budget and the breed predispositions (budget, genetics themes).
+// Removed on purpose (never reuse this id): puppy-020 (receptivity depends on the breed too: not a clean question).
 // Not asked: the exact figures of the "budget-temps" and of the "predispositions" parts (see those themes).
 // The mimetism (imitation) is used in natural education: never use it as a wrong answer for that method.
 
@@ -244,18 +245,6 @@
       ],
       correct: [0],
       explanation: "Faux : le chien est un animal social capable d'interagir avec une multitude d'individus."
-    },
-    {
-      id: "puppy-020",
-      question: "De quoi dépend la réceptivité d'un chien envers un maître ?",
-      answers: [
-        "De l'historique d'interactions entre eux",
-        "De la race du chien, quel que soit le maître",
-        "De la personne qui lui donne ses repas",
-        "De la personne qui l'a choisi à l'élevage"
-      ],
-      correct: [0],
-      explanation: "Le chien est plus réceptif avec un maître positif, constant et rigoureux."
     },
     {
       id: "puppy-021",

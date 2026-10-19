@@ -135,7 +135,7 @@
     },
     {
       id: "communication-009",
-      question: "Quels comportements du chien n'étaient pas des signaux à l'origine et le sont devenus par évolution et ritualisation ?",
+      question: "Quels comportements sont à l'origine de signaux de communication, par évolution et ritualisation ?",
       answers: [
         "Les comportements d'attaque et de prédation",
         "Le mouvement de préparation à la fuite",
@@ -145,7 +145,7 @@
         "Le grognement"
       ],
       correct: [0, 1, 2, 3],
-      explanation: "Non-signaux : attaque/prédation, préparation à la fuite, demande de soin, protection, respiration, défécation, miction."
+      explanation: "Comportements d'origine (non-signaux) : attaque/prédation, préparation à la fuite, demande de soin, protection, respiration, défécation, miction. Les mimiques menaçantes et le grognement sont au contraire des signaux, issus de la ritualisation."
     },
     {
       id: "communication-010",

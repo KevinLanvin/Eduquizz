@@ -169,13 +169,13 @@
       id: "development-012",
       question: "Qu'est-ce que l'imprégnation ?",
       answers: [
-        "Un phénomène instinctif d'interaction avec le milieu, limité dans le temps, de durée variable selon les espèces",
+        "Une période de 3 à 12 semaines qui favorise grandement les apprentissages : un phénomène instinctif d'interaction avec le milieu, limité dans le temps",
         "Un apprentissage par conditionnement, qui peut se faire à tout âge avec des récompenses",
         "Un apprentissage uniquement social, qui ne dépend pas de l'environnement du chiot",
         "Un comportement acquis après la puberté, sous l'influence des hormones sexuelles"
       ],
       correct: [0],
-      explanation: "L'imprégnation est un phénomène instinctif d'interaction avec le milieu, limité dans le temps, à durée variable selon les espèces."
+      explanation: "L'imprégnation est un phénomène instinctif d'interaction avec le milieu, limité dans le temps (3 à 12 semaines chez le chiot) et qui favorise grandement les apprentissages."
     },
     {
       id: "development-013",
